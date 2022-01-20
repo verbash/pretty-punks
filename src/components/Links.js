@@ -63,7 +63,8 @@ export default function Links() {
           Artist
         </Typography>
         <Typography id="modal-modal-description" sx={{ mt: 2 }}>
-            About the artist      
+            About the artist 
+            <img src={require('../img/postercard.png')} width="200"/>     
         </Typography>
       </Box>
     </Modal>

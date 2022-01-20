@@ -64,7 +64,6 @@
     width: 100vw;
     overflow-x: hidden;
     overflow-y: scroll;
-    /* position: fixed; */
   }
   
   .stage {

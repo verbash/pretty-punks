@@ -11,3 +11,11 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+@font-face {
+  font-family: "BlasterFont-Demo";
+  src: local("BlasterFont-Demo"),
+   url("./fonts/BlasterFont-Demo.otf") format("truetype");
+  font-weight: bold;
+}
+ 

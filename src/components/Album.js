@@ -1,12 +1,7 @@
-import React, { useEffect, useState, useRef, useCallback } from "react"
+import React from "react"
 import AppBar from '@mui/material/AppBar';
 import Button from '@mui/material/Button';
-import Card from '@mui/material/Card';
-import CardActions from '@mui/material/CardActions';
-import CardContent from '@mui/material/CardContent';
-import CardMedia from '@mui/material/CardMedia';
 import CssBaseline from '@mui/material/CssBaseline';
-import Grid from '@mui/material/Grid';
 import Stack from '@mui/material/Stack';
 import Box from '@mui/material/Box';
 import Toolbar from '@mui/material/Toolbar';
@@ -33,8 +28,6 @@ function Copyright() {
   );
 }
 
-const cards = [1, 2, 3, 4, 5, 6, 7, 8, 9];
-
 const theme = createTheme({
     palette: {
         mode: 'dark',
@@ -57,19 +50,14 @@ const theme = createTheme({
 });
 
 export default function Album() {
-    const [Cards, setCards] = React.useState('')
-    const [TokensApi, setTokensApi] = React.useState('')
-    const [random, setRandom] = React.useState(0);
+  const [more, setMore] = React.useState(false);
 
   const goToCollection = () => {
     window.location.href="https://paras.id/collection/pretty-punks-by-agatheartsnear?sort=marketupdate&is_notforsale=true&pmin=0";
   }
 
-  const getRandomPunks = () => {
-    //pass a value down through to card group
-    const random = Math.floor(Math.random() * 200 + 1);
-    console.log('random', random);
-    setRandom(random);
+  const getMorePunks = () => {
+    setMore(!more);
   }
 
   return (
@@ -99,7 +87,14 @@ export default function Album() {
               color="text.primary"
               gutterBottom
             >
-              Pretty Punks
+                  <Box
+      sx={{
+        fontFamily: 'BlasterFont-Demo',
+        color: 'beige'
+      }}
+    >
+      Pretty Punks
+    </Box>
             </Typography>
             <Typography variant="h5" align="center" color="text.secondary" paragraph>
             Pretty punks is a unique NFT Collection, stay cool and pretty with these pretty avatars.
@@ -112,13 +107,13 @@ export default function Album() {
               justifyContent="center"
             >
               <Button variant="contained" onClick={goToCollection}>Collect Now!</Button>
-              <Button variant="outlined" onClick={getRandomPunks}>More Pretty Punks!</Button>
+              <Button variant="outlined" onClick={getMorePunks}>More Pretty Punks!</Button>
             </Stack>
             <GridRoom />
           </Container>
           {/* <GridRoom /> */}
         </Box>
-        <CardGroup random={{ random }} />
+        <CardGroup more={{ more }} />
       </main>
       {/* Footer */}
       <Box sx={{ bgcolor: 'background.paper', p: 6 }} component="footer">
