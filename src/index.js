@@ -4,6 +4,7 @@ import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 import CssBaseline from '@mui/material/CssBaseline';
+import './fonts/BlasterFont-Demo.otf';
 
 ReactDOM.render(
   <React.StrictMode>

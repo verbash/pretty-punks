@@ -9,7 +9,6 @@ import Typography from '@mui/material/Typography';
 import Container from '@mui/material/Container';
 import Link from '@mui/material/Link';
 import { createTheme, ThemeProvider } from '@mui/material/styles';
-import GridRoom from './GridRoom';
 
 import Links from './Links'
 
@@ -31,8 +30,11 @@ function Copyright() {
 const theme = createTheme({
     palette: {
         mode: 'dark',
+        background: {
+          default: "#790e8b"
+        },
         primary: {
-          main: '#aa3fb5',
+          main: '#ab47bc',
         },
         secondary: {
           main: '#d82766',
@@ -109,9 +111,7 @@ export default function Album() {
               <Button variant="contained" onClick={goToCollection}>Collect Now!</Button>
               <Button variant="outlined" onClick={getMorePunks}>More Pretty Punks!</Button>
             </Stack>
-            <GridRoom />
           </Container>
-          {/* <GridRoom /> */}
         </Box>
         <CardGroup more={{ more }} />
       </main>
