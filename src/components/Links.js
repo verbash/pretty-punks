@@ -12,7 +12,6 @@ import Modal from '@mui/material/Modal';
 import Link from '@mui/material/Link';
 import CardMedia from '@mui/material/CardMedia';
 
-
 const style = {
   position: 'absolute',
   top: '50%',
