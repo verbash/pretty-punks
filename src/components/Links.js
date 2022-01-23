@@ -9,6 +9,9 @@ import roadmap from '../img/Rocket_perspective_matte_s.png'
 import Box from '@mui/material/Box';
 import Typography from '@mui/material/Typography';
 import Modal from '@mui/material/Modal';
+import Link from '@mui/material/Link';
+import CardMedia from '@mui/material/CardMedia';
+
 
 const style = {
   position: 'absolute',
@@ -63,9 +66,23 @@ export default function Links() {
           Artist
         </Typography>
         <Typography id="modal-modal-description" sx={{ mt: 2 }}>
-            About the artist 
-            <img src={require('../img/postercard.png')} width="200"/>     
+          Hi! I am agathearts.near, I'm a Filipino NFT Artist on Paras and the Creator of the Pretty Punks, feel free to follow my official links!     
         </Typography>
+        <CardMedia
+        component="img"
+        sx={{ width: 200, mt: '10px' }}
+        image={require('../img/postercard.png')}
+        alt="Pretty Punks poster image"
+      />
+        {/* <img src={require('../img/postercard.png')} width="200"/> */}
+        <br />
+        <Link color="inherit" href="https://paras.id/agathearts.near/creation" target="__blank" rel="noopener">
+          My Paras Marketplace
+        </Link>
+        <br />
+        <Link color="inherit" href="https://twitter.com/PrettyPunksCrew" target="__blank" rel="noopener">
+          My Twitter
+        </Link>
       </Box>
     </Modal>
     <Modal
