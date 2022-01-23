@@ -97,36 +97,34 @@ export default function Links() {
         </Typography>
         <Typography id="modal-modal-description" sx={{ mt: 2 }}>
         GOAL 500 PRETTY PUNKS
- WILL MINT ASAP GRAB THEM BEFORE THEY'RE GONE. ✨
- ⭐CURRENTY SUPPLY NUMBER 170/500⭐
- Common (2N) = 54/285 Cards Minted 
 
-Uncommon (2N) = 67/100 Cards Minted 
+WILL MINT ASAP GRAB THEM BEFORE THEY'RE GONE. ✨
 
-Rare (2N) = 45/95 Cards Minted 
+⭐CURRENTY SUPPLY NUMBER 244/500⭐
 
-Legendary (5N) = 4/20 Standby! 
+Common (2N) = 70/285 Cards Minted
+Uncommon (2N) = 100/100 Cards Minted
+Rare (2N) = 60/95 Cards Minted
+Legendary (5N) = 7/20 Standby!
 
- 
+⭐ROAD MAP⭐
 COMMON - Plain Colors with Different outfits
- 
 UNCOMMON - Gradient Hair With different outfits
- 
-RARE - Drops every fives or tens counts 
+RARE - Drops every fives or tens counts
 
-5 - 10 - 15 - 20 etc. 
+5 - 10 - 15 - 20 etc.
 30 - 40 - 50 etc.
 
- Specification : Gradient Hair , Gradient outfit , Luminousity in appearance. 
+Specification : Gradient Hair , Gradient outfit , Luminousity in appearance.
 
+✨LEGENDARY - Has all specifications with unique Backgrounds and it is sometimes animated and also a lil bit raise of price.
 
-✨LEGENDARY - Has all specifications with unique Backgrounds and it is sometimes animated and also a lil bit raise of price. 
+Type :
+🔶Cosplay - Referenced as famous and well-known characters with enhanced art style (considered as rare).
 
-Type : 🔶Cosplay - Referenced as famous and well-known characters with enhanced art style (Rare // Legendary). 
-
+For more infos and questions visit my twitter accounts below is the link⬇️⬇️
 
 THANKYOUUUSOMUCH FOR BUYING MY COLLECTIONS HOPE YOU WILL SUPPORT IT UNTIL THE END. ❤️❤️
-
 {/* <br></br>
 Collabs :
 ❌ = Not yet 
