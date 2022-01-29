@@ -13,14 +13,12 @@ import { createTheme, ThemeProvider } from '@mui/material/styles';
 import Links from './Links'
 
 import CardGroup from './CardGroup';
+import Roadmap from "./Roadmap";
 
 function Copyright() {
   return (
     <Typography variant="body2" color="text.secondary" align="center">
-      {'site by  '}
-      <Link color="inherit" href="https://twitter.com/Verbash1" style={{ textDecoration: 'none' }}>
-        verbash
-      </Link>{' '}
+      {'Pretty Punks Club '}
       {new Date().getFullYear()}
       {'.'}
     </Typography>
@@ -108,12 +106,43 @@ export default function Album() {
               spacing={2}
               justifyContent="center"
             >
-              <Button variant="contained" onClick={goToCollection}>Collect Now!</Button>
-              <Button variant="outlined" onClick={getMorePunks}>More Pretty Punks!</Button>
+              <Button variant="contained" onClick={goToCollection}>Collect Now on Paras Marketplace</Button>
+              {/* <Button variant="outlined" onClick={getMorePunks}>More Pretty Punks!</Button> */}
             </Stack>
           </Container>
         </Box>
+
+        <Roadmap />
+        <Typography
+              component="h1"
+              variant="h2"
+              align="center"
+              color="text.primary"
+              sx={{ pt: 4 }}
+            >
+              Gallery
+        </Typography>
+                  <Box
+      sx={{
+        fontFamily: 'BlasterFont-Demo',
+        color: 'beige'
+      }}
+    ></Box>
         <CardGroup more={{ more }} />
+        <Box
+          sx={{
+            bgcolor: 'background.paper',
+            p: 2,
+          }}
+        >
+          <Stack
+              direction="row"
+              spacing={2}
+              justifyContent="center"
+            >
+          <Button variant="outlined" onClick={getMorePunks}>More Pretty Punks!</Button>
+          </Stack>
+        </Box>
       </main>
       {/* Footer */}
       <Box sx={{ bgcolor: 'background.paper', p: 6 }} component="footer">

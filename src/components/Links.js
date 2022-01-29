@@ -41,7 +41,7 @@ export default function Links() {
             <a href="https://discord.gg/JtJKmFSb" target="_blank" rel="noopener noreferrer nofollow">
                 <img src={discord} height='78' width='78' alt='discord' />
             </a>
-            <a href="https://twitter.com/agathearts_alyx" target="_blank" rel="noopener noreferrer nofollow">
+            <a href="https://twitter.com/prettypunksclub" target="_blank" rel="noopener noreferrer nofollow">
                 <img src={twitter} height='80' width='80' alt='twitter' />
             </a>
             <a href="https://paras.id/collection/pretty-punks-by-agatheartsnear" target="_blank" rel="noopener noreferrer nofollow">

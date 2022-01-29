@@ -30,7 +30,7 @@ export default function CardGroup(props) {
               (result) => {
                 setIsLoaded(true);
                 if (counter < 501) {
-                  setItems(filterCards(items.concat(result.data.results)).reverse());
+                  setItems(filterCards(items.concat(result.data.results)));
                   setCounter(counter + 30)
                 }
               },
@@ -56,7 +56,7 @@ export default function CardGroup(props) {
             console.log('items', items);
 console.log('render');
   return (
-        <Container sx={{ py: 8 }} maxWidth="md">
+        <Container sx={{ py: 4 }} maxWidth="md">
           {/* End hero unit */}
           <Grid container spacing={4}>
             {items.map((item) => (
