@@ -49,7 +49,8 @@ const theme = createTheme({
       },
 });
 
-export default function Album() {
+export default function Album(props) {
+  console.log('Album page', props.page);
   const [more, setMore] = React.useState(false);
 
   const goToCollection = () => {
@@ -112,7 +113,7 @@ export default function Album() {
           </Container>
         </Box>
 
-        <Roadmap />
+        <Roadmap page={props.page}/>
         <Typography
               component="h1"
               variant="h2"

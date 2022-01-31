@@ -3,7 +3,7 @@ import CardMedia from '@mui/material/CardMedia';
 import Grid from '@mui/material/Grid';
 import Paper from "@mui/material/Paper";
 import twitter from '../img/Twitter_perspective_matte_s.png'
-
+import { documentToReactComponents } from '@contentful/rich-text-react-renderer';
 
 export default function Roadmap(props) {
     const [isLoaded, setIsLoaded] = useState(false);
@@ -11,13 +11,13 @@ export default function Roadmap(props) {
     return (
         <Grid container spacing={{ xs: 2, sm: 3 }} sx={{ p: 3,  mt: 5 }}>
             <Grid item sm={8} xs={12}>
-                <Paper elevation={3} rounded sx={{ p: 2 }}>
-                    <h3>Roadmap Title 1</h3>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas libero nulla, accumsan quis diam nec, consectetur blandit erat. Integer viverra lectus ut tortor fringilla dictum. Sed leo sem, gravida eu porta consequat, elementum consectetur magna. Nulla sed facilisis purus. Sed tristique lorem at sapien pulvinar varius. </p>
+                <Paper elevation={3}  sx={{ p: 2 }}>
+                    <h3>{props.page.header}</h3>
+                    <div>{documentToReactComponents(props.page.body1.json)}</div>
                 </Paper>
             </Grid>
             <Grid item sm={4} xs={6}>
-                <Paper elevation={3} rounded sx={{ p: 2 }}>
+                <Paper elevation={3}  sx={{ p: 2 }}>
                     <CardMedia
                         component="img"
                         image={'https://cloudflare-ipfs.com/ipfs/bafkreigiib77pgnyfjze7flwirm4junb3o3fgwawavz55732qe6b2ymdty'}
@@ -29,7 +29,7 @@ export default function Roadmap(props) {
                 </Paper>
             </Grid>
             <Grid item sm={4} xs={6}>
-                <Paper elevation={3} rounded sx={{ p: 2 }}>
+                <Paper elevation={3}  sx={{ p: 2 }}>
                     <CardMedia
                         component="img"
                         image={'https://cloudflare-ipfs.com/ipfs/bafkreigiib77pgnyfjze7flwirm4junb3o3fgwawavz55732qe6b2ymdty'}
@@ -40,7 +40,7 @@ export default function Roadmap(props) {
                 </Paper>
             </Grid>
             <Grid item sm={8} xs={12}>
-                <Paper elevation={3} rounded sx={{ p: 2 }}>
+                <Paper elevation={3}  sx={{ p: 2 }}>
                     <h3>Roadmap Title 2</h3>
                     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas libero nulla, accumsan quis diam nec, consectetur blandit erat. Integer viverra lectus ut tortor fringilla dictum. Sed leo sem, gravida eu porta consequat, elementum consectetur magna. Nulla sed facilisis purus. Sed tristique lorem at sapien pulvinar varius. </p>
                 </Paper>
@@ -49,7 +49,7 @@ export default function Roadmap(props) {
             
 
             <Grid item sm={3} xs={6}>
-                <Paper elevation={3} rounded sx={{ p: 2 }}>
+                <Paper elevation={3}  sx={{ p: 2 }}>
                     <CardMedia
                         component="img"
                         image={'https://cloudflare-ipfs.com/ipfs/bafkreigiib77pgnyfjze7flwirm4junb3o3fgwawavz55732qe6b2ymdty'}
@@ -64,7 +64,7 @@ export default function Roadmap(props) {
                 </Paper>
             </Grid>
             <Grid item sm={3} xs={6}>
-                <Paper elevation={3} rounded sx={{ p: 2 }}>
+                <Paper elevation={3}  sx={{ p: 2 }}>
                     <CardMedia
                         component="img"
                         image={'https://cloudflare-ipfs.com/ipfs/bafkreigiib77pgnyfjze7flwirm4junb3o3fgwawavz55732qe6b2ymdty'}
@@ -79,7 +79,7 @@ export default function Roadmap(props) {
                 </Paper>
             </Grid>
             <Grid item sm={3} xs={6}>
-                <Paper elevation={3} rounded sx={{ p: 2 }}>
+                <Paper elevation={3}  sx={{ p: 2 }}>
                     <CardMedia
                         component="img"
                         image={'https://cloudflare-ipfs.com/ipfs/bafkreigiib77pgnyfjze7flwirm4junb3o3fgwawavz55732qe6b2ymdty'}
@@ -94,7 +94,7 @@ export default function Roadmap(props) {
                 </Paper>
             </Grid>
             <Grid item sm={3} xs={6}>
-                <Paper elevation={3} rounded sx={{ p: 2 }}>
+                <Paper elevation={3}  sx={{ p: 2 }}>
                     <CardMedia
                         component="img"
                         image={'https://cloudflare-ipfs.com/ipfs/bafkreigiib77pgnyfjze7flwirm4junb3o3fgwawavz55732qe6b2ymdty'}
