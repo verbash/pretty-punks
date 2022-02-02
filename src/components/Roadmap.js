@@ -1,113 +1,75 @@
-import React, { useState } from 'react'
-import CardMedia from '@mui/material/CardMedia';
-import Grid from '@mui/material/Grid';
-import Paper from "@mui/material/Paper";
-import twitter from '../img/Twitter_perspective_matte_s.png'
+import React from 'react';
+import Accordion from '@mui/material/Accordion';
+import AccordionSummary from '@mui/material/AccordionSummary';
+import AccordionDetails from '@mui/material/AccordionDetails';
+import Typography from '@mui/material/Typography';
+import ExpandMoreIcon from '@mui/icons-material/ExpandMore';
 import { documentToReactComponents } from '@contentful/rich-text-react-renderer';
 
 export default function Roadmap(props) {
-    const [isLoaded, setIsLoaded] = useState(false);
-
-    return (
-        <Grid container spacing={{ xs: 2, sm: 3 }} sx={{ p: 3,  mt: 5 }}>
-            <Grid item sm={8} xs={12}>
-                <Paper elevation={3}  sx={{ p: 2 }}>
-                    <h3>{props.page.header}</h3>
-                    <div>{documentToReactComponents(props.page.body1.json)}</div>
-                </Paper>
-            </Grid>
-            <Grid item sm={4} xs={6}>
-                <Paper elevation={3}  sx={{ p: 2 }}>
-                    <CardMedia
-                        component="img"
-                        image={'https://cloudflare-ipfs.com/ipfs/bafkreigiib77pgnyfjze7flwirm4junb3o3fgwawavz55732qe6b2ymdty'}
-                        alt="punks 1"
-                        // sx={{ p: 2 }}
-                    />
-                    <p>some other thing</p>
-                    
-                </Paper>
-            </Grid>
-            <Grid item sm={4} xs={6}>
-                <Paper elevation={3}  sx={{ p: 2 }}>
-                    <CardMedia
-                        component="img"
-                        image={'https://cloudflare-ipfs.com/ipfs/bafkreigiib77pgnyfjze7flwirm4junb3o3fgwawavz55732qe6b2ymdty'}
-                        alt="punks 1"
-                        // sx={{ p: 2 }}
-                    />
-                    <p>some other thing</p>
-                </Paper>
-            </Grid>
-            <Grid item sm={8} xs={12}>
-                <Paper elevation={3}  sx={{ p: 2 }}>
-                    <h3>Roadmap Title 2</h3>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas libero nulla, accumsan quis diam nec, consectetur blandit erat. Integer viverra lectus ut tortor fringilla dictum. Sed leo sem, gravida eu porta consequat, elementum consectetur magna. Nulla sed facilisis purus. Sed tristique lorem at sapien pulvinar varius. </p>
-                </Paper>
-            </Grid>
-
-            
-
-            <Grid item sm={3} xs={6}>
-                <Paper elevation={3}  sx={{ p: 2 }}>
-                    <CardMedia
-                        component="img"
-                        image={'https://cloudflare-ipfs.com/ipfs/bafkreigiib77pgnyfjze7flwirm4junb3o3fgwawavz55732qe6b2ymdty'}
-                        alt="punks 1"
-                        // sx={{ p: 2 }}
-                    />
-                    <h3>Teammember1</h3>
-                    <p>title</p>
-                    <a href="https://twitter.com/prettypunksclub" target="_blank" rel="noopener noreferrer nofollow">
-                        <img src={twitter} height='25' width='25' alt='twitter' />
-                    </a>
-                </Paper>
-            </Grid>
-            <Grid item sm={3} xs={6}>
-                <Paper elevation={3}  sx={{ p: 2 }}>
-                    <CardMedia
-                        component="img"
-                        image={'https://cloudflare-ipfs.com/ipfs/bafkreigiib77pgnyfjze7flwirm4junb3o3fgwawavz55732qe6b2ymdty'}
-                        alt="punks 1"
-                        // sx={{ p: 2 }}
-                    />
-                    <h3>Teammember2</h3>
-                    <p>title</p>
-                    <a href="https://twitter.com/prettypunksclub" target="_blank" rel="noopener noreferrer nofollow">
-                        <img src={twitter} height='25' width='25' alt='twitter' />
-                    </a>
-                </Paper>
-            </Grid>
-            <Grid item sm={3} xs={6}>
-                <Paper elevation={3}  sx={{ p: 2 }}>
-                    <CardMedia
-                        component="img"
-                        image={'https://cloudflare-ipfs.com/ipfs/bafkreigiib77pgnyfjze7flwirm4junb3o3fgwawavz55732qe6b2ymdty'}
-                        alt="punks 1"
-                        // sx={{ p: 2 }}
-                    />
-                    <h3>Teammember3</h3>
-                    <p>title</p>
-                    <a href="https://twitter.com/prettypunksclub" target="_blank" rel="noopener noreferrer nofollow">
-                        <img src={twitter} height='25' width='25' alt='twitter' />
-                    </a>
-                </Paper>
-            </Grid>
-            <Grid item sm={3} xs={6}>
-                <Paper elevation={3}  sx={{ p: 2 }}>
-                    <CardMedia
-                        component="img"
-                        image={'https://cloudflare-ipfs.com/ipfs/bafkreigiib77pgnyfjze7flwirm4junb3o3fgwawavz55732qe6b2ymdty'}
-                        alt="punks 1"
-                        // sx={{ p: 2 }}
-                    />
-                    <h3>Teammember4</h3>
-                    <p>title</p>
-                    <a href="https://twitter.com/prettypunksclub" target="_blank" rel="noopener noreferrer nofollow">
-                        <img src={twitter} height='25' width='25' alt='twitter' />
-                    </a>
-                </Paper>
-            </Grid>
-        </Grid>
-    );
-  };
+  console.log('Roadmap props', props)
+  return (
+    <div>
+      <Accordion>
+        <AccordionSummary
+          expandIcon={<ExpandMoreIcon />}
+          aria-controls="panel1a-content"
+          id="panel1a-header"
+        >
+          <Typography>{props.page.roadmap.title1}</Typography>
+        </AccordionSummary>
+        <AccordionDetails>
+          <Typography>
+            {documentToReactComponents(props.page.roadmap.body1.json)}
+          </Typography>
+        </AccordionDetails>
+      </Accordion>
+      <Accordion>
+        <AccordionSummary
+          expandIcon={<ExpandMoreIcon />}
+          aria-controls="panel2a-content"
+          id="panel2a-header"
+        >
+          <Typography>{props.page.roadmap.title2}</Typography>
+        </AccordionSummary>
+        <AccordionDetails>
+          <Typography>
+            {documentToReactComponents(props.page.roadmap.body2.json)}
+          </Typography>
+        </AccordionDetails>
+      </Accordion>
+      {props.page.roadmap.title3 && props.page.roadmap.title3 != '' &&
+        <Accordion>
+        <AccordionSummary
+          expandIcon={<ExpandMoreIcon />}
+          aria-controls="panel2a-content"
+          id="panel2a-header"
+        >
+          <Typography>{props.page.roadmap.title3}</Typography>
+        </AccordionSummary>
+        <AccordionDetails>
+          <Typography>
+            {documentToReactComponents(props.page.roadmap.body3.json)}
+          </Typography>
+        </AccordionDetails>
+      </Accordion>
+      }
+      {props.page.roadmap.title4 && props.page.roadmap.title4 != '' &&
+        <Accordion>
+        <AccordionSummary
+          expandIcon={<ExpandMoreIcon />}
+          aria-controls="panel2a-content"
+          id="panel2a-header"
+        >
+          <Typography>{props.page.roadmap.title4}</Typography>
+        </AccordionSummary>
+        <AccordionDetails>
+          <Typography>
+            {documentToReactComponents(props.page.roadmap.body4.json)}
+          </Typography>
+        </AccordionDetails>
+      </Accordion>
+      }
+    </div>
+  );
+}

@@ -13,7 +13,7 @@ import { createTheme, ThemeProvider } from '@mui/material/styles';
 import Links from './Links'
 
 import CardGroup from './CardGroup';
-import Roadmap from "./Roadmap";
+import Content from "./Content";
 
 function Copyright() {
   return (
@@ -113,7 +113,7 @@ export default function Album(props) {
           </Container>
         </Box>
 
-        <Roadmap page={props.page}/>
+        <Content page={props.page}/>
         <Typography
               component="h1"
               variant="h2"

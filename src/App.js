@@ -7,8 +7,54 @@ const query = `
 {
   roadmapCollection {
     items {
-      header
+      header1
+      title1
       body1 {
+        json
+      }
+      title2
+      body2 {
+        json
+      }
+      title3
+      body3 {
+        json
+      }
+      title4
+      body4 {
+        json
+      }
+    }
+  }
+  faqCollection {
+    items {
+      header1
+      title1
+      body1 {
+        json
+      }
+      title2
+      body2 {
+        json
+      }
+      title3
+      body3 {
+        json
+      }
+      title4
+      body4 {
+        json
+      }
+      title5
+      body5 {
+        json
+      }
+      title6
+      body6 {
+        json
+      }
+      title7
+      body7 {
         json
       }
     }
@@ -37,7 +83,8 @@ function App() {
         }
 
         // rerender the entire component with new data
-        setPage(data.roadmapCollection.items[0]);
+        // setPage(data.roadmapCollection.items[0]);
+        setPage({ roadmap: data.roadmapCollection.items[0], faq: data.faqCollection.items[0] })
       });
   }, []);
 
