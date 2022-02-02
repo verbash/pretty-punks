@@ -59,6 +59,26 @@ const query = `
       }
     }
   }
+  otherCopyCollection {
+    items {
+      aboutBody {
+        json
+      }
+      ctaButton
+      collabsHeader
+      collabsBody {
+        json
+      }
+      communityHeader
+      communityBody {
+        json
+      }
+      commonTitle
+      uncommonTitle
+      rareTitle
+      legendaryTitle
+    }
+  }
 }`
 
 function App() {
@@ -84,7 +104,7 @@ function App() {
 
         // rerender the entire component with new data
         // setPage(data.roadmapCollection.items[0]);
-        setPage({ roadmap: data.roadmapCollection.items[0], faq: data.faqCollection.items[0] })
+        setPage({ roadmap: data.roadmapCollection.items[0], faq: data.faqCollection.items[0], otherCopy: data.otherCopyCollection.items[0], })
       });
   }, []);
 

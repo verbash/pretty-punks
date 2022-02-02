@@ -9,6 +9,7 @@ import Typography from '@mui/material/Typography';
 import Container from '@mui/material/Container';
 import Link from '@mui/material/Link';
 import { createTheme, ThemeProvider } from '@mui/material/styles';
+import { documentToReactComponents } from '@contentful/rich-text-react-renderer';
 
 import Links from './Links'
 
@@ -97,20 +98,24 @@ export default function Album(props) {
       Pretty Punks
     </Box>
             </Typography>
-            <Typography variant="h5" align="center" color="text.secondary" paragraph>
-            Pretty punks is a unique NFT Collection, stay cool and pretty with these pretty avatars.
-            Each edition is uniquely made, also you can use them as an avatar! Only on Paras!
-            </Typography>
+            {/* <Typography variant="h5" align="center" color="text.secondary" paragraph> */}
+            {documentToReactComponents(props.page.otherCopy.aboutBody.json)}
+            {/* Pretty punks is a unique NFT Collection, stay cool and pretty with these pretty avatars.
+            Each edition is uniquely made, also you can use them as an avatar! Only on Paras! */}
+            {/* </Typography> */}
             <Stack
               sx={{ pt: 4 }}
               direction="row"
               spacing={2}
               justifyContent="center"
             >
-              <Button variant="contained" onClick={goToCollection}>Collect Now on Paras Marketplace</Button>
+              <Button variant="contained" onClick={goToCollection}>
+                {/* Collect Now on Paras Marketplace */}
+                {props.page.otherCopy.ctaButton}
+                </Button>
               {/* <Button variant="outlined" onClick={getMorePunks}>More Pretty Punks!</Button> */}
             </Stack>
-          </Container>
+          </Container>common
         </Box>
 
         <Content page={props.page}/>
