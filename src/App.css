@@ -5,3 +5,13 @@
 .main-container {
   z-index: 2;
 }
+
+a {
+  color: #28acd8 !important;
+  text-decoration: none;
+}
+
+a:visited {
+  color: #28acd8 !important;
+  text-decoration: none;
+}

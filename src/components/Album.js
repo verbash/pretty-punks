@@ -15,6 +15,7 @@ import Links from './Links'
 
 import CardGroup from './CardGroup';
 import Content from "./Content";
+import Team from "./Team";
 
 function Copyright() {
   return (
@@ -44,9 +45,19 @@ const theme = createTheme({
       },
       typography: {
         fontFamily: 'Roboto',
-        h2: {
+        h3: {
           fontFamily: 'Creepster',
         },
+      },
+      action: {
+        active: '#ADD8E6',
+        activeOpacity: 1,
+        hover: '#ADD8E6',
+        hoverOpacity: 0.7,
+        focus: '#ADD8E6',
+        focusOpacity: 1,
+        selected: '#ADD8E6',
+        selectedOpacity: 1
       },
 });
 
@@ -113,15 +124,27 @@ export default function Album(props) {
                 {/* Collect Now on Paras Marketplace */}
                 {props.page.otherCopy.ctaButton}
                 </Button>
+                {/* add "GO TO GALLERY" button after router page anchors are installed */}
               {/* <Button variant="outlined" onClick={getMorePunks}>More Pretty Punks!</Button> */}
             </Stack>
-          </Container>common
+          </Container>
         </Box>
 
         <Content page={props.page}/>
         <Typography
-              component="h1"
-              variant="h2"
+              component="h3"
+              variant="h3"
+              align="center"
+              color="text.primary"
+              sx={{ pt: 4 }}
+            >
+              Core Team
+        </Typography>
+        <Team page={props.page} />
+
+        <Typography
+              component="h3"
+              variant="h3"
               align="center"
               color="text.primary"
               sx={{ pt: 4 }}

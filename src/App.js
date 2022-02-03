@@ -79,6 +79,26 @@ const query = `
       legendaryTitle
     }
   }
+  teamCollection {
+    items {
+      name1
+      role1
+      description1
+      twitter1
+      name2
+      role2
+      description2
+      twitter2
+      name3
+      role3
+      description3
+      twitter3
+      name4
+      role4
+      description4
+      twitter4
+    }
+  }
 }`
 
 function App() {
@@ -104,7 +124,12 @@ function App() {
 
         // rerender the entire component with new data
         // setPage(data.roadmapCollection.items[0]);
-        setPage({ roadmap: data.roadmapCollection.items[0], faq: data.faqCollection.items[0], otherCopy: data.otherCopyCollection.items[0], })
+        setPage({
+          roadmap: data.roadmapCollection.items[0],
+          faq: data.faqCollection.items[0],
+          otherCopy: data.otherCopyCollection.items[0],
+          team: data.teamCollection.items[0],
+        })
       });
   }, []);
 
