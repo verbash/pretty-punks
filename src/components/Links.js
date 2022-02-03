@@ -38,15 +38,15 @@ export default function Links() {
     return ( 
 
       <>
-            <a href="https://discord.gg/JtJKmFSb" target="_blank" rel="noopener noreferrer nofollow">
+            <a href="https://discord.gg/JtJKmFSb" target="_blank" rel="noopener noreferrer nofollow" style={{ fontSize: '14px' }}>
                  Discord
              </a>
              &nbsp;&nbsp;
-             <a href="https://twitter.com/prettypunksclub" target="_blank" rel="noopener noreferrer nofollow">
+             <a href="https://twitter.com/prettypunksclub" target="_blank" rel="noopener noreferrer nofollow" style={{ fontSize: '14px' }}>
                  Twitter
              </a>
              &nbsp;&nbsp;
-             <a href="https://paras.id/collection/pretty-punks-by-agatheartsnear" target="_blank" rel="noopener noreferrer nofollow">
+             <a href="https://paras.id/collection/pretty-punks-by-agatheartsnear" target="_blank" rel="noopener noreferrer nofollow" style={{ fontSize: '14px' }}>
                  Secondary Marketplace
              </a>
       </>
