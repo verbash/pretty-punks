@@ -6,7 +6,7 @@ import twitter from '../img/Twitter_perspective_matte_s.png'
 import { documentToReactComponents } from '@contentful/rich-text-react-renderer';
 import { Typography } from '@mui/material';
 
-export default function Team(props) {
+export default function Rarity(props) {
 
     return (
         <Grid
@@ -26,133 +26,92 @@ export default function Team(props) {
                 <Paper elevation={3}  sx={{ p: 2 }}>
                     <CardMedia
                         component="img"
-                        image={'https://cloudflare-ipfs.com/ipfs/bafybeicrjen3pv4knvzrko57zc66hzn7ylkrcgvhhnwzu4ivzkbhpis454'}
+                        image={'https://cloudflare-ipfs.com/ipfs/bafybeihvmryeijvepj25s5roc6yj7xejlypckjj6esozeizph6a36lvt74'}
                         alt="punks 1"
                         // sx={{ p: 2 }}
                     />
                     <Typography
                         component="p"
-                        variant="h6"
+                        variant="body1"
                         sx={{ pt: 2 }}
                     >
-                        {props.page.team.name1}
+                        {props.page.otherCopy.commonTitle}
                     </Typography>
                     <Typography
                         component="p"
                         variant="body2"
                     >
-                        {props.page.team.role1}
+                        {props.page.otherCopy.commonSubTitle}
                     </Typography>
-                    <Typography
-                        component="p"
-                        variant="body2"
-                        sx={{ pb: 2 }}
-                    >
-                        {props.page.team.description1}
-                    </Typography>
-                    <a href={props.page.team.twitter1} target="_blank" rel="noopener noreferrer nofollow">
-                        <img src={twitter} height='25' width='25' alt='twitter' />
-                    </a>
                 </Paper>
             </Grid>
             <Grid item sm={3} xs={6}>
                 <Paper elevation={3}  sx={{ p: 2 }}>
                     <CardMedia
                         component="img"
-                        image={'https://cloudflare-ipfs.com/ipfs/bafkreidifz5e3ktw4nrwoccpfn6wsnslplhkebcufxxdr2ycbs7ju32uku'}
+                        image={'https://cloudflare-ipfs.com/ipfs/bafybeihd76uyeylsvmqsorhhytfbxuqz2fhoq6wxjjmu36nicop7t4l5su'}
                         alt="punks 1"
                         // sx={{ p: 2 }}
                     />
                     <Typography
                         component="p"
-                        variant="h6"
+                        variant="body1"
                         sx={{ pt: 2 }}
                     >
-                        {props.page.team.name2}
+                        {props.page.otherCopy.uncommonTitle}
                     </Typography>
                     <Typography
                         component="p"
                         variant="body2"
                     >
-                        {props.page.team.role2}
+                        {props.page.otherCopy.uncommonSubTitle}
                     </Typography>
-                    <Typography 
-                        component="p"
-                        variant="body2"
-                        sx={{ pb: 2 }}
-                    >
-                        {props.page.team.description2}
-                    </Typography>
-                    <a href={props.page.team.twitter2} target="_blank" rel="noopener noreferrer nofollow">
-                        <img src={twitter} height='25' width='25' alt='twitter' />
-                    </a>
                 </Paper>
             </Grid>
             <Grid item sm={3} xs={6}>
                 <Paper elevation={3}  sx={{ p: 2 }}>
                     <CardMedia
                         component="img"
-                        image={'https://cloudflare-ipfs.com/ipfs/bafkreigiib77pgnyfjze7flwirm4junb3o3fgwawavz55732qe6b2ymdty'}
+                        image={'https://cloudflare-ipfs.com/ipfs/bafkreifim7qh33527irdmpp3wg5v43oix373kwnnbykkutw6xdwn2tcn6u'}
                         alt="punks 1"
                         // sx={{ p: 2 }}
                     />
                     <Typography
                         component="p"
-                        variant="h6"
+                        variant="body1"
                         sx={{ pt: 2 }}
                     >
-                        {props.page.team.name3}
+                        {props.page.otherCopy.rareTitle}
                     </Typography>
                     <Typography
                         component="p"
                         variant="body2"
                     >
-                        {props.page.team.role3}
+                        {props.page.otherCopy.rareSubTitle}
                     </Typography>
-                    <Typography
-                        component="p"
-                        variant="body2"
-                        sx={{ pb: 2 }}
-                    >
-                        {props.page.team.description3}
-                    </Typography>
-                    <a href={props.page.team.twitter3} target="_blank" rel="noopener noreferrer nofollow">
-                        <img src={twitter} height='25' width='25' alt='twitter' />
-                    </a>
                 </Paper>
             </Grid>
             <Grid item sm={3} xs={6}>
                 <Paper elevation={3}  sx={{ p: 2 }}>
                     <CardMedia
                         component="img"
-                        image={'https://cloudflare-ipfs.com/ipfs/bafkreicp335kxs75wmddgwjqbsjkheumgrjovycr53i2gfbd2dm2k3ll5y'}
+                        image={'https://cloudflare-ipfs.com/ipfs/bafybeiboosikrqpeivf3zppmoxxm2sahg6wrpwx7ncz4wc5llrrfn3miui'}
                         alt="punks 1"
                         // sx={{ p: 2 }}
                     />
                     <Typography
                         component="p"
-                        variant="h6"
+                        variant="body1"
                         sx={{ pt: 2 }}
                     >
-                        {props.page.team.name4}
+                        {props.page.otherCopy.legendaryTitle}
                     </Typography>
                     <Typography
                         component="p"
                         variant="body2"
-
                     >
-                        {props.page.team.role4}
+                        {props.page.otherCopy.legendarySubTitle}
                     </Typography>
-                    <Typography
-                        component="p"
-                        variant="body2"
-                        sx={{ pb: 2 }}
-                    >
-                        {props.page.team.description4}
-                    </Typography>
-                    <a href={props.page.team.twitter4} target="_blank" rel="noopener noreferrer nofollow">
-                        <img src={twitter} height='25' width='25' alt='twitter' />
-                    </a>
                 </Paper>
             </Grid>
         </Grid>

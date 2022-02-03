@@ -74,9 +74,13 @@ const query = `
         json
       }
       commonTitle
+      commonSubTitle
       uncommonTitle
+      uncommonSubTitle
       rareTitle
+      rareSubTitle
       legendaryTitle
+      legendarySubTitle
     }
   }
   teamCollection {

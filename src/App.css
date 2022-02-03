@@ -7,11 +7,15 @@
 }
 
 a {
-  color: #28acd8 !important;
+  color: #2efadf !important;
   text-decoration: none;
 }
 
 a:visited {
-  color: #28acd8 !important;
+  color: #2efadf !important;
   text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
 }

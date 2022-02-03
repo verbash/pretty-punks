@@ -16,6 +16,7 @@ import Links from './Links'
 import CardGroup from './CardGroup';
 import Content from "./Content";
 import Team from "./Team";
+import Rarity from "./Rarity";
 
 function Copyright() {
   return (
@@ -130,7 +131,8 @@ export default function Album(props) {
           </Container>
         </Box>
 
-        <Content page={props.page}/>
+        <Rarity page={props.page} />
+        <Content page={props.page} />
         <Typography
               component="h3"
               variant="h3"
@@ -138,7 +140,7 @@ export default function Album(props) {
               color="text.primary"
               sx={{ pt: 4 }}
             >
-              Core Team
+              Team
         </Typography>
         <Team page={props.page} />
 
