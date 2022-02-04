@@ -1,13 +1,9 @@
-import React, { useState } from 'react'
+import React from 'react'
 import CardMedia from '@mui/material/CardMedia';
 import Grid from '@mui/material/Grid';
 import Paper from "@mui/material/Paper";
-import twitter from '../img/Twitter_perspective_matte_s.png'
-import { documentToReactComponents } from '@contentful/rich-text-react-renderer';
 import Faq from './Faq'
 import Roadmap from './Roadmap'
-import Collabs from './Collabs'
-import Community from './Community'
 
 export default function Content(props) {
 

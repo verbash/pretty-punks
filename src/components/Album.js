@@ -101,20 +101,18 @@ export default function Album(props) {
               color="text.primary"
               gutterBottom
             >
-                  <Box
-      sx={{
-        fontFamily: 'BlasterFont-Demo',
-        color: 'beige'
-      }}
-    >
-      Pretty Punks
-    </Box>
+              <Box
+                sx={{
+                  fontFamily: 'BlasterFont-Demo',
+                  color: 'beige'
+                }}
+              >
+              Pretty Punks
+            </Box>
             </Typography>
-            {/* <Typography variant="h5" align="center" color="text.secondary" paragraph> */}
+            <Typography variant="h5" align="center" color="text.secondary" paragraph>
             {documentToReactComponents(props.page.otherCopy.aboutBody.json)}
-            {/* Pretty punks is a unique NFT Collection, stay cool and pretty with these pretty avatars.
-            Each edition is uniquely made, also you can use them as an avatar! Only on Paras! */}
-            {/* </Typography> */}
+            </Typography>
             <Stack
               sx={{ pt: 4 }}
               direction="row"

@@ -53,8 +53,7 @@ export default function CardGroup(props) {
         } else if (!isLoaded) {
           return <div>Loading...</div>;
         } else {
-            console.log('items', items);
-console.log('render');
+
   return (
         <Container sx={{ py: 4 }} maxWidth="md">
           {/* End hero unit */}

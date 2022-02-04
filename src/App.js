@@ -65,14 +65,6 @@ const query = `
         json
       }
       ctaButton
-      collabsHeader
-      collabsBody {
-        json
-      }
-      communityHeader
-      communityBody {
-        json
-      }
       commonTitle
       commonSubTitle
       uncommonTitle
@@ -141,7 +133,6 @@ function App() {
     return "Loading...";
   }
 
-  console.log('page', page);
   return (
     <Album page={page}/>
   );

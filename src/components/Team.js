@@ -92,7 +92,7 @@ export default function Team(props) {
                 <Paper elevation={3}  sx={{ p: 2 }}>
                     <CardMedia
                         component="img"
-                        image={'https://cloudflare-ipfs.com/ipfs/bafkreigiib77pgnyfjze7flwirm4junb3o3fgwawavz55732qe6b2ymdty'}
+                        image={'https://cloudflare-ipfs.com/ipfs/bafkreicn5tvoq6r3djriyysj5wskijnui7wrbail6ef5qclvmcrqqpndsy'}
                         alt="punks 1"
                         // sx={{ p: 2 }}
                     />

@@ -2,8 +2,6 @@ import React, { useState } from 'react'
 import CardMedia from '@mui/material/CardMedia';
 import Grid from '@mui/material/Grid';
 import Paper from "@mui/material/Paper";
-import twitter from '../img/Twitter_perspective_matte_s.png'
-import { documentToReactComponents } from '@contentful/rich-text-react-renderer';
 import { Typography } from '@mui/material';
 
 export default function Rarity(props) {
@@ -32,7 +30,7 @@ export default function Rarity(props) {
                     />
                     <Typography
                         component="p"
-                        variant="body1"
+                        variant="h6"
                         sx={{ pt: 2 }}
                     >
                         {props.page.otherCopy.commonTitle}
@@ -55,7 +53,7 @@ export default function Rarity(props) {
                     />
                     <Typography
                         component="p"
-                        variant="body1"
+                        variant="h6"
                         sx={{ pt: 2 }}
                     >
                         {props.page.otherCopy.uncommonTitle}
@@ -78,7 +76,7 @@ export default function Rarity(props) {
                     />
                     <Typography
                         component="p"
-                        variant="body1"
+                        variant="h6"
                         sx={{ pt: 2 }}
                     >
                         {props.page.otherCopy.rareTitle}
@@ -101,7 +99,7 @@ export default function Rarity(props) {
                     />
                     <Typography
                         component="p"
-                        variant="body1"
+                        variant="h6"
                         sx={{ pt: 2 }}
                     >
                         {props.page.otherCopy.legendaryTitle}

@@ -7,7 +7,7 @@ import ExpandMoreIcon from '@mui/icons-material/ExpandMore';
 import { documentToReactComponents } from '@contentful/rich-text-react-renderer';
 
 export default function Roadmap(props) {
-  console.log('Roadmap props', props)
+
   return (
     <div>
       <Accordion>
@@ -38,7 +38,7 @@ export default function Roadmap(props) {
           </Typography>
         </AccordionDetails>
       </Accordion>
-      {props.page.roadmap.title3 && props.page.roadmap.title3 != '' &&
+      {props.page.roadmap.title3 && props.page.roadmap.title3 !== '' &&
         <Accordion>
         <AccordionSummary
           expandIcon={<ExpandMoreIcon />}
@@ -54,7 +54,7 @@ export default function Roadmap(props) {
         </AccordionDetails>
       </Accordion>
       }
-      {props.page.roadmap.title4 && props.page.roadmap.title4 != '' &&
+      {props.page.roadmap.title4 && props.page.roadmap.title4 !== '' &&
         <Accordion>
         <AccordionSummary
           expandIcon={<ExpandMoreIcon />}
