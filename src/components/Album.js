@@ -110,8 +110,11 @@ export default function Album(props) {
               Pretty Punks
             </Box>
             </Typography>
-            <Typography variant="h5" align="center" color="text.secondary" paragraph>
+            <Typography variant="h6" align="center" color="text.secondary" paragraph>
             {documentToReactComponents(props.page.otherCopy.aboutBody.json)}
+            </Typography>
+            <Typography variant="p" align="center" color="text.secondary" paragraph>
+            {documentToReactComponents(props.page.otherCopy.announceBody.json)}
             </Typography>
             <Stack
               sx={{ pt: 4 }}

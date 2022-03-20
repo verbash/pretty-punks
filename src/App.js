@@ -64,6 +64,9 @@ const query = `
       aboutBody {
         json
       }
+      announceBody {
+        json
+      }
       ctaButton
       commonTitle
       commonSubTitle
