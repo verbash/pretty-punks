@@ -25,10 +25,6 @@ const items = [
 
     ['Cymaeri', '1514591272371392513', 'FQTou1taIAAg1vR'],
 
-    ['kenzero14', '1514465262619467779', 'FQPzWzkXIAY7eK5'],
-
-    ['skull_shy', '1514459475281072130', 'FQRuiHVVQAEczyE'],
-
     ['vertfromageio', '1514321795012345861', 'FQPzWzkXIAY7eK5'],
 
     ['Mushruetato', '1514456915308277762', 'FQRuiHVVQAEczyE'],
@@ -48,8 +44,6 @@ const items = [
     ['StarArt123', '1514398370252480514', 'FQQ5SpyVQAACFea'],
 
     ['portzdraw', '1514515717185413120', 'FQSj_i1aMAE91Ah'],
-
-    ['liliacia_neAr', '1514473803421679616', 'FQR6vFJUcAALJsb'],
 
     ['jayloren_near', '1514394197977034752', 'FQQ1fS2VUAkxmvp'],
 
@@ -108,13 +102,21 @@ function FanArt() {
         <>
             <Links />
             <h1>Fan Art</h1>
-            <Grid container spacing={4}>
+            <Grid container             
+            spacing={{
+                xs: 3,
+                sm: 2,
+            }}
+            sx={{ 
+                p: 3,
+                mt: 5,
+            }}>
             {items.map((item, i) => (
               <Grid item key={i} xs={12} sm={6} md={4}>
                   <Card
                   sx={{ height: '100%', display: 'flex', flexDirection: 'column' }}
                 >
-                <a style={{ display: 'block'}} href={`https://twitter.com/${item[0]}/status/${item[1]}`} rel="_noopener">
+                <a target="_blank" style={{ display: 'block'}} href={`https://twitter.com/${item[0]}/status/${item[1]}`} rel="_noopener">
                     <img style={{padding: '5px', width: '100%'}} src={`https://pbs.twimg.com/media/${item[2]}?format=jpg&name=small`} />
                 </a>
                 <Typography gutterBottom variant="h5" component="h2">
