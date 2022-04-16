@@ -1,0 +1,3300 @@
+[
+    {
+        "id": 1,
+		"rarity": "rare",
+		"cosplay": null,
+        "slug": "fFx7rako",
+        "token_series_id": 59471
+	},
+    {
+        "id": 2,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "ock8OTFW",
+        "token_series_id": 59473
+	},
+    {
+        "id": 3,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "dotQ5x7D",
+        "token_series_id": 59477
+	},
+    {
+        "id": 4,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "",
+        "token_series_id": 59567
+	},
+    {
+        "id": 5,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "T3wXPynq",
+        "token_series_id": 59598
+	},
+    {
+        "id": 6,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "",
+        "token_series_id": 60065
+	},
+    {
+        "id": 7,
+		"rarity": "rare",
+		"cosplay": null,
+        "slug": "",
+        "token_series_id": 60069
+	},
+    {
+        "id": 8,
+		"rarity": "rare",
+		"cosplay": "Jinx",
+        "slug": "",
+        "token_series_id": 60522
+	},
+    {
+        "id": 9,
+		"rarity": "rare",
+		"cosplay": "Vi",
+        "slug": "",
+        "token_series_id": 60642
+	},
+    {
+        "id": 10,
+		"rarity": "rare",
+		"cosplay": "Viper",
+        "slug": "",
+        "token_series_id": 61269
+	},
+    {
+        "id": 11,
+		"rarity": "rare",
+		"cosplay": "Princess",
+        "slug": "",
+        "token_series_id": 61477
+	},
+    {
+        "id": 12,
+		"rarity": "rare",
+		"cosplay": "Caitlyn",
+        "slug": "",
+        "token_series_id": 61640
+	},
+    {
+        "id": 13,
+		"rarity": "rare",
+		"cosplay": "Marmajchan",
+        "slug": "",
+        "token_series_id": 62566
+	},
+    {
+        "id": 14,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "",
+        "token_series_id": 62788
+	},
+    {
+        "id": 15,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "",
+        "token_series_id": 63258
+	},
+    {
+        "id": 16,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "",
+        "token_series_id": 64025
+	},
+    {
+        "id": 17,
+		"rarity": "rare",
+		"cosplay": null,
+        "slug": "",
+        "token_series_id": 64026
+	},
+    {
+        "id": 18,
+		"rarity": "rare",
+		"cosplay": null,
+        "slug": "",
+        "token_series_id": 64244
+	},
+    {
+        "id": 19,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "",
+        "token_series_id": 0
+	},
+    {
+        "id": 20,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "",
+        "token_series_id": 0
+	},
+    {
+        "id": 21,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "",
+        "token_series_id": 0
+	},
+    {
+        "id": 22,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "",
+        "token_series_id": 0
+	},
+    {
+        "id": 23,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "",
+        "token_series_id": 0
+	},
+    {
+        "id": 24,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "",
+        "token_series_id": 0
+	},
+    {
+        "id": 25,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "",
+        "token_series_id": 0
+	},
+    {
+        "id": 26,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "",
+        "token_series_id": 0
+	},
+    {
+        "id": 27,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "Lb0axiZg",
+        "token_series_id": 0
+	},
+    {
+        "id": 28,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "OYmGNWpV",
+        "token_series_id": 0
+	},
+    {
+        "id": 29,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "",
+        "token_series_id": 0
+	},
+    {
+        "id": 30,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "",
+        "token_series_id": 0
+	},
+    {
+        "id": 31,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "",
+        "token_series_id": 0
+	},
+    {
+        "id": 32,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "",
+        "token_series_id": 0
+	},
+    {
+        "id": 33,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "cSHdQgEa",
+        "token_series_id": 0
+	},
+    {
+        "id": 34,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "",
+        "token_series_id": 0
+	},
+    {
+        "id": 35,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "",
+        "token_series_id": 0
+	},
+    {
+        "id": 36,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "",
+        "token_series_id": 0
+	},
+    {
+        "id": 37,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "",
+        "token_series_id": 0
+	},
+    {
+        "id": 38,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "",
+        "token_series_id": 0
+	},
+    {
+        "id": 39,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "RpQL8DGO",
+        "token_series_id": 0
+	},
+    {
+        "id": 40,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "",
+        "token_series_id": 0
+	},
+    {
+        "id": 41,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "",
+        "token_series_id": 0
+	},
+    {
+        "id": 42,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "",
+        "token_series_id": 0
+	},
+    {
+        "id": 43,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "",
+        "token_series_id": 0
+	},
+    {
+        "id": 44,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "",
+        "token_series_id": 0
+	},
+    {
+        "id": 45,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "",
+        "token_series_id": 0
+	},
+    {
+        "id": 46,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "I7g3BFSy",
+        "token_series_id": 0
+	},
+    {
+        "id": 47,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "",
+        "token_series_id": 0
+	},
+    {
+        "id": 48,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "",
+        "token_series_id": 0
+	},
+    {
+        "id": 49,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "",
+        "token_series_id": 0
+	},
+    {
+        "id": 50,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "",
+        "token_series_id": 0
+	},
+    {
+        "id": 51,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "MS6ZsiiB",
+        "token_series_id": 0
+	},
+    {
+        "id": 52,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "1flRHVWt",
+        "token_series_id": 0
+	},
+    {
+        "id": 53,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "",
+        "token_series_id": 0
+	},
+    {
+        "id": 54,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "",
+        "token_series_id": 0
+	},
+    {
+        "id": 55,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "",
+        "token_series_id": 0
+	},
+    {
+        "id": 56,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "d4V6djZs",
+        "token_series_id": 0
+	},
+    {
+        "id": 57,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "",
+        "token_series_id": 0
+	},
+    {
+        "id": 58,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "",
+        "token_series_id": 0
+	},
+    {
+        "id": 59,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "",
+        "token_series_id": 0
+	},
+    {
+        "id": 60,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "",
+        "token_series_id": 0
+	},
+    {
+        "id": 61,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "",
+        "token_series_id": 0
+	},
+    {
+        "id": 62,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "",
+        "token_series_id": 0
+	},
+    {
+        "id": 63,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "",
+        "token_series_id": 0
+	},
+    {
+        "id": 64,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "hW9rvojq",
+        "token_series_id": 0
+	},
+    {
+        "id": 65,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "",
+        "token_series_id": 0
+	},
+    {
+        "id": 66,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "",
+        "token_series_id": 0
+	},
+    {
+        "id": 67,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "eN5eGXsg",
+        "token_series_id": 0
+	},
+    {
+        "id": 68,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "",
+        "token_series_id": 0
+	},
+    {
+        "id": 69,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "S5vpBnR6",
+        "token_series_id": 0
+	},
+    {
+        "id": 70,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "",
+        "token_series_id": 0
+	},
+    {
+        "id": 71,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "",
+        "token_series_id": 0
+	},
+    {
+        "id": 72,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "",
+        "token_series_id": 0
+	},
+    {
+        "id": 73,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "",
+        "token_series_id": 0
+	},
+    {
+        "id": 74,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "",
+        "token_series_id": 0
+	},
+    {
+        "id": 75,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "eAxfTYzG",
+        "token_series_id": 0
+	},
+    {
+        "id": 76,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "TcaPVNZ4",
+        "token_series_id": 0
+	},
+    {
+        "id": 77,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "",
+        "token_series_id": 0
+	},
+    {
+        "id": 78,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "",
+        "token_series_id": 0
+	},
+    {
+        "id": 79,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "",
+        "token_series_id": 0
+	},
+    {
+        "id": 80,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "",
+        "token_series_id": 0
+	},
+    {
+        "id": 81,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "",
+        "token_series_id": 0
+	},
+    {
+        "id": 82,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "",
+        "token_series_id": 0
+	},
+    {
+        "id": 83,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "",
+        "token_series_id": 0
+	},
+    {
+        "id": 84,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "lbmF5DJo",
+        "token_series_id": 0
+	},
+    {
+        "id": 85,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "Vgpk8t3n",
+        "token_series_id": 0
+	},
+    {
+        "id": 86,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "bw5xXp9E",
+        "token_series_id": 0
+	},
+    {
+        "id": 87,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "",
+        "token_series_id": 0
+	},
+    {
+        "id": 88,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "",
+        "token_series_id": 0
+	},
+    {
+        "id": 89,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "",
+        "token_series_id": 0
+	},
+    {
+        "id": 90,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "",
+        "token_series_id": 0
+	},
+    {
+        "id": 91,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "",
+        "token_series_id": 0
+	},
+    {
+        "id": 92,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "",
+        "token_series_id": 0
+	},
+    {
+        "id": 93,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "VnO02M6h",
+        "token_series_id": 0
+	},
+    {
+        "id": 94,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "",
+        "token_series_id": 0
+	},
+    {
+        "id": 95,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "",
+        "token_series_id": 0
+	},
+    {
+        "id": 96,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "",
+        "token_series_id": 0
+	},
+    {
+        "id": 97,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "LYGATOnT",
+        "token_series_id": 0
+	},
+    {
+        "id": 98,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "",
+        "token_series_id": 0
+	},
+    {
+        "id": 99,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "",
+        "token_series_id": 0
+	},
+    {
+        "id": 100,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "",
+        "token_series_id": 0
+	},
+    {
+        "id": 101,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "",
+        "token_series_id": 0
+	},
+    {
+        "id": 102,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "PwYZd8Xk",
+        "token_series_id": 0
+	},
+    {
+        "id": 103,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "",
+        "token_series_id": 0
+	},
+    {
+        "id": 104,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "1TEljWP8",
+        "token_series_id": 0
+	},
+    {
+        "id": 105,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "",
+        "token_series_id": 0
+	},
+    {
+        "id": 106,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "",
+        "token_series_id": 0
+	},
+    {
+        "id": 107,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "",
+        "token_series_id": 0
+	},
+    {
+        "id": 108,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "",
+        "token_series_id": 0
+	},
+    {
+        "id": 109,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "",
+        "token_series_id": 0
+	},
+    {
+        "id": 110,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "",
+        "token_series_id": 0
+	},
+    {
+        "id": 111,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "",
+        "token_series_id": 0
+	},
+    {
+        "id": 112,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "",
+        "token_series_id": 0
+	},
+    {
+        "id": 113,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "",
+        "token_series_id": 0
+	},
+    {
+        "id": 114,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "",
+        "token_series_id": 0
+	},
+    {
+        "id": 115,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "",
+        "token_series_id": 0
+	},
+    {
+        "id": 116,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "",
+        "token_series_id": 0
+	},
+    {
+        "id": 117,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "",
+        "token_series_id": 0
+	},
+    {
+        "id": 118,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "",
+        "token_series_id": 0
+	},
+    {
+        "id": 119,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "",
+        "token_series_id": 0
+	},
+
+        {
+        "id": 120,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "",
+        "token_series_id": 0
+	},
+    {
+        "id": 121,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "jWol7B36",
+        "token_series_id": 0
+	},
+    {
+        "id": 122,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "",
+        "token_series_id": 0
+	},
+    {
+        "id": 123,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "UOZ27KGZ",
+        "token_series_id": 0
+	},
+    {
+        "id": 124,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "",
+        "token_series_id": 0
+	},
+    {
+        "id": 125,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "",
+        "token_series_id": 0
+	},
+    {
+        "id": 126,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "",
+        "token_series_id": 0
+	},
+    {
+        "id": 127,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "",
+        "token_series_id": 0
+	},
+    {
+        "id": 128,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "",
+        "token_series_id": 0
+	},
+    {
+        "id": 129,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "",
+        "token_series_id": 0
+	},
+    {
+        "id": 130,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "",
+        "token_series_id": 0
+	},
+    {
+        "id": 131,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "",
+        "token_series_id": 0
+	},
+    {
+        "id": 132,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "",
+        "token_series_id": 0
+	},
+    {
+        "id": 133,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "",
+        "token_series_id": 0
+	},
+    {
+        "id": 134,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "",
+        "token_series_id": 0
+	},
+    {
+        "id": 135,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "uiePSRa1",
+        "token_series_id": 0
+	},
+    {
+        "id": 136,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "",
+        "token_series_id": 0
+	},
+    {
+        "id": 137,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "",
+        "token_series_id": 0
+	},
+    {
+        "id": 138,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "",
+        "token_series_id": 0
+	},
+    {
+        "id": 139,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "2R0NIFv2",
+        "token_series_id": 0
+	},
+    {
+        "id": 140,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "C6Jx9lqc",
+        "token_series_id": 0
+	},
+    {
+        "id": 141,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "",
+        "token_series_id": 0
+	},
+    {
+        "id": 142,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "",
+        "token_series_id": 0
+	},
+    {
+        "id": 143,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "",
+        "token_series_id": 0
+	},
+    {
+        "id": 144,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "",
+        "token_series_id": 0
+	},
+    {
+        "id": 145,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "",
+        "token_series_id": 0
+	},
+    {
+        "id": 146,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "",
+        "token_series_id": 0
+	},
+    {
+        "id": 147,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "jub1NiH8",
+        "token_series_id": 0
+	},
+    {
+        "id": 148,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "",
+        "token_series_id": 0
+	},
+    {
+        "id": 149,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "B3YCOp7P",
+        "token_series_id": 0
+	},
+    {
+        "id": 150,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "",
+        "token_series_id": 0
+	},
+    {
+        "id": 151,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "IYE0i9Es",
+        "token_series_id": 0
+	},
+    {
+        "id": 152,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "DyK64EpP",
+        "token_series_id": 0
+	},
+    {
+        "id": 153,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "XDdizkmb",
+        "token_series_id": 0
+	},
+    {
+        "id": 154,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "",
+        "token_series_id": 0
+	},
+    {
+        "id": 155,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "",
+        "token_series_id": 0
+	},
+    {
+        "id": 156,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "",
+        "token_series_id": 0
+	},
+    {
+        "id": 157,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "",
+        "token_series_id": 0
+	},
+    {
+        "id": 158,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "",
+        "token_series_id": 0
+	},
+    {
+        "id": 159,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "",
+        "token_series_id": 0
+	},
+    {
+        "id": 160,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "jlJhZAuW",
+        "token_series_id": 0
+	},
+    {
+        "id": 161,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "",
+        "token_series_id": 0
+	},
+    {
+        "id": 162,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "",
+        "token_series_id": 0
+	},
+    {
+        "id": 163,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "",
+        "token_series_id": 0
+	},
+    {
+        "id": 164,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "",
+        "token_series_id": 0
+	},
+    {
+        "id": 165,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "",
+        "token_series_id": 0
+	},
+    {
+        "id": 166,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "",
+        "token_series_id": 0
+	},
+    {
+        "id": 166,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "",
+        "token_series_id": 0
+	},
+    {
+        "id": 167,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "xq9RJlTE",
+        "token_series_id": 0
+	},
+    {
+        "id": 168,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "",
+        "token_series_id": 0
+	},
+    {
+        "id": 169,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "",
+        "token_series_id": 0
+	},
+    {
+        "id": 167,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "",
+        "token_series_id": 0
+	},
+    {
+        "id": 168,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "",
+        "token_series_id": 0
+	},
+    {
+        "id": 169,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "",
+        "token_series_id": 0
+	},
+    {
+        "id": 170,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "xfmSpu6R",
+        "token_series_id": 0
+	},
+    {
+        "id": 171,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "",
+        "token_series_id": 0
+	},
+    {
+        "id": 172,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "",
+        "token_series_id": 0
+	},
+    {
+        "id": 173,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "iaK5w6es",
+        "token_series_id": 0
+	},
+    {
+        "id": 174,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "",
+        "token_series_id": 114629
+	},
+    {
+        "id": 175,
+		"rarity": "rare",
+		"cosplay": null,
+        "slug": "rMwgyCWB",
+        "token_series_id": 114652
+	},
+    {
+        "id": 176,
+		"rarity": "uncommon",
+		"cosplay": null,
+        "slug": "",
+        "token_series_id": 114657
+	},
+    {
+        "id": 177,
+		"rarity": "uncommon",
+		"cosplay": null,
+        "slug": "kD2TrkJZ",
+        "token_series_id": 114662
+	},
+    {
+        "id": 178,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "",
+        "token_series_id": 114672
+	},
+    {
+        "id": 179,
+		"rarity": "legendary",
+		"cosplay": null,
+        "slug": "8ARWJVLQ",
+        "token_series_id": 115156
+	},
+    {
+        "id": 180,
+		"rarity": "legendary",
+		"cosplay": null,
+        "slug": "",
+        "token_series_id": 115827
+	},
+    {
+        "id": 181,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "",
+        "token_series_id": 119721
+	},
+    {
+        "id": 182,
+		"rarity": "uncommon",
+		"cosplay": null,
+        "slug": "",
+        "token_series_id": 119742
+	},
+    {
+        "id": 183,
+		"rarity": "uncommon",
+		"cosplay": null,
+        "slug": "",
+        "token_series_id": 120918
+	},
+    {
+        "id": 184,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "UhNPr1DC",
+        "token_series_id": 120919
+	},
+    {
+        "id": 185,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "",
+        "token_series_id": 120922
+	},
+    {
+        "id": 186,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "OWopQjYA",
+        "token_series_id": 120925
+	},
+    {
+        "id": 187,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "",
+        "token_series_id": 120928
+	},
+    {
+        "id": 188,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "",
+        "token_series_id": 120990
+	},
+    {
+        "id": 189,
+		"rarity": "uncommon",
+		"cosplay": null,
+        "slug": "",
+        "token_series_id": 120994
+	},
+    {
+        "id": 190,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "",
+        "token_series_id": 120999
+	},
+    {
+        "id": 191,
+		"rarity": "rare",
+		"cosplay": null,
+        "slug": "",
+        "token_series_id": 121002
+	},
+    {
+        "id": 192,
+		"rarity": "uncommon",
+		"cosplay": null,
+        "slug": "",
+        "token_series_id": 121004
+	},
+    {
+        "id": 193,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "",
+        "token_series_id": 126933
+	},
+    {
+        "id": 194,
+		"rarity": "uncommon",
+		"cosplay": null,
+        "slug": "VpVspMoQ",
+        "token_series_id": 126936
+	},
+    {
+        "id": 195,
+		"rarity": "uncommon",
+		"cosplay": null,
+        "slug": "",
+        "token_series_id": 126938
+	},
+    {
+        "id": 196,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "",
+        "token_series_id": 0
+	},
+    {
+        "id": 197,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "",
+        "token_series_id": 0
+	},
+    {
+        "id": 198,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "",
+        "token_series_id": 0
+	},
+    {
+        "id": 199,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "dxeva2B3",
+        "token_series_id": 0
+	},
+    {
+        "id": 200,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "",
+        "token_series_id": 0
+	},
+    {
+        "id": 201,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "",
+        "token_series_id": 0
+	},
+    {
+        "id": 202,
+		"rarity": "rare",
+		"cosplay": null,
+        "slug": "NooFDeUk",
+        "token_series_id": 127042
+	},
+    {
+        "id": 203,
+		"rarity": "rare",
+		"cosplay": null,
+        "slug": "",
+        "token_series_id": 127046
+	},
+    {
+        "id": 204,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "",
+        "token_series_id": 129815
+	},
+    {
+        "id": 205,
+		"rarity": "rare",
+		"cosplay": null,
+        "slug": "",
+        "token_series_id": 129818
+	},
+    {
+        "id": 206,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "",
+        "token_series_id": 129822
+	},
+    {
+        "id": 207,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "",
+        "token_series_id": 129824
+	},
+    {
+        "id": 208,
+		"rarity": "uncommon",
+		"cosplay": null,
+        "slug": "OWopQjYA",
+        "token_series_id": 129828
+	},
+    {
+        "id": 209,
+		"rarity": "uncommon",
+		"cosplay": null,
+        "slug": "TeAG30Uw",
+        "token_series_id": 129891
+	},
+    {
+        "id": 210,
+		"rarity": "rare",
+		"cosplay": null,
+        "slug": "",
+        "token_series_id": 129892
+	},
+    {
+        "id": 211,
+		"rarity": "uncommon",
+		"cosplay": null,
+        "slug": "",
+        "token_series_id": 129899
+	},
+    {
+        "id": 212,
+		"rarity": "uncommon",
+		"cosplay": null,
+        "slug": "",
+        "token_series_id": 129902
+	},
+    {
+        "id": 213,
+		"rarity": "rare",
+		"cosplay": null,
+        "slug": "MEAaHkCs",
+        "token_series_id": 129908
+	},
+    {
+        "id": 214,
+		"rarity": "uncommon",
+		"cosplay": null,
+        "slug": "",
+        "token_series_id": 132562
+	},
+    {
+        "id": 215,
+		"rarity": "uncommon",
+		"cosplay": null,
+        "slug": "",
+        "token_series_id": 132564
+	},
+    {
+        "id": 216,
+		"rarity": "rare",
+		"cosplay": null,
+        "slug": "",
+        "token_series_id": 132566
+	},
+    {
+        "id": 217,
+		"rarity": "uncommon",
+		"cosplay": null,
+        "slug": "",
+        "token_series_id": 132567
+	},
+    {
+        "id": 218,
+		"rarity": "uncommon",
+		"cosplay": null,
+        "slug": "",
+        "token_series_id": 132569
+	},
+    {
+        "id": 219,
+		"rarity": "rare",
+		"cosplay": null,
+        "slug": "",
+        "token_series_id": 132613
+	},
+    {
+        "id": 220,
+		"rarity": "uncommon",
+		"cosplay": null,
+        "slug": "",
+        "token_series_id": 132617
+	},
+    {
+        "id": 221,
+		"rarity": "uncommon",
+		"cosplay": null,
+        "slug": "",
+        "token_series_id": 132623
+	},
+    {
+        "id": 222,
+		"rarity": "uncommon",
+		"cosplay": null,
+        "slug": "",
+        "token_series_id": 132645
+	},
+    {
+        "id": 223,
+		"rarity": "uncommon",
+		"cosplay": null,
+        "slug": "QxopnYTC",
+        "token_series_id": 132648
+	},
+    {
+        "id": 224,
+		"rarity": "legendary",
+		"cosplay": "NEON",
+        "slug": "",
+        "token_series_id": 132670
+	},
+    {
+        "id": 225,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "",
+        "token_series_id": 135886
+	},
+    {
+        "id": 226,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "",
+        "token_series_id": 0
+	},
+    {
+        "id": 227,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "",
+        "token_series_id": 0
+	},
+    {
+        "id": 228,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "",
+        "token_series_id": 0
+	},
+    {
+        "id": 229,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "",
+        "token_series_id": 0
+	},
+    {
+        "id": 230,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "xedADFxM",
+        "token_series_id": 0
+	},
+    {
+        "id": 231,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "",
+        "token_series_id": 0
+	},
+    {
+        "id": 232,
+		"rarity": "uncommon",
+		"cosplay": null,
+        "slug": "",
+        "token_series_id": 136030
+	},
+    {
+        "id": 233,
+		"rarity": "uncommon",
+		"cosplay": null,
+        "slug": "dwbNXBpg",
+        "token_series_id": 136051
+	},
+    {
+        "id": 234,
+		"rarity": "rare",
+		"cosplay": null,
+        "slug": "rfMUAr51",
+        "token_series_id": 136057
+	},
+    {
+        "id": 235,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "Vt6yPDI8",
+        "token_series_id": 138821
+	},
+    {
+        "id": 236,
+		"rarity": "uncommon",
+		"cosplay": null,
+        "slug": "",
+        "token_series_id": 138823
+	},
+    {
+        "id": 237,
+		"rarity": "uncommon",
+		"cosplay": null,
+        "slug": "",
+        "token_series_id": 138826
+	},
+    {
+        "id": 238,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "0ysER4zi",
+        "token_series_id": 138828
+	},
+    {
+        "id": 239,
+		"rarity": "rare",
+		"cosplay": null,
+        "slug": "",
+        "token_series_id": 138830
+	},
+    {
+        "id": 240,
+		"rarity": "uncommon",
+		"cosplay": null,
+        "slug": "vYeNYpbj",
+        "token_series_id": 138887
+	},
+    {
+        "id": 241,
+		"rarity": "rare",
+		"cosplay": null,
+        "slug": "",
+        "token_series_id": 138890
+	},
+    {
+        "id": 242,
+		"rarity": "rare",
+		"cosplay": null,
+        "slug": "",
+        "token_series_id": 138891
+	},
+    {
+        "id": 243,
+		"rarity": "uncommon",
+		"cosplay": null,
+        "slug": "",
+        "token_series_id": 138893
+	},
+    {
+        "id": 244,
+		"rarity": "rare",
+		"cosplay": "Jolyne",
+        "slug": "f2adLRee",
+        "token_series_id": 138904
+	},
+    {
+        "id": 245,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "",
+        "token_series_id": 143147
+	},
+    {
+        "id": 246,
+		"rarity": "rare",
+		"cosplay": null,
+        "slug": "",
+        "token_series_id": 143152
+	},
+    {
+        "id": 247,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "",
+        "token_series_id": 143157
+	},
+    {
+        "id": 248,
+		"rarity": "rare",
+		"cosplay": null,
+        "slug": "",
+        "token_series_id": 143162
+	},
+    {
+        "id": 249,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "",
+        "token_series_id": 143165
+	},
+    {
+        "id": 250,
+		"rarity": "rare",
+		"cosplay": null,
+        "slug": "",
+        "token_series_id": 143227
+	},
+    {
+        "id": 251,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "",
+        "token_series_id": 143230
+	},
+    {
+        "id": 252,
+		"rarity": "rare",
+		"cosplay": null,
+        "slug": "",
+        "token_series_id": 143234
+	},
+    {
+        "id": 253,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "",
+        "token_series_id": 143236
+	},
+    {
+        "id": 254,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "",
+        "token_series_id": 0
+	},
+    {
+        "id": 255,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "",
+        "token_series_id": 143252
+	},
+    {
+        "id": 256,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "MAMYV8Pp",
+        "token_series_id": 0
+	},
+    {
+        "id": 257,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "QRspY1Zy",
+        "token_series_id": 0
+	},
+    {
+        "id": 258,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "",
+        "token_series_id": 0
+	},
+    {
+        "id": 259,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "MyuGCixS",
+        "token_series_id": 0
+	},
+    {
+        "id": 260,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "",
+        "token_series_id": 0
+	},
+    {
+        "id": 261,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "5VMrdpE2",
+        "token_series_id": 144818
+	},
+    {
+        "id": 262,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "WASjanWO",
+        "token_series_id": 144822
+	},
+    {
+        "id": 263,
+		"rarity": "rare",
+		"cosplay": null,
+        "slug": "",
+        "token_series_id": 144903
+	},
+    {
+        "id": 264,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "",
+        "token_series_id": 144906
+	},
+    {
+        "id": 265,
+		"rarity": "rare",
+		"cosplay": null,
+        "slug": "",
+        "token_series_id": 144908
+	},
+    {
+        "id": 266,
+		"rarity": "rare",
+		"cosplay": "BHMC",
+        "slug": "",
+        "token_series_id": 145078
+	},
+    {
+        "id": 267,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "",
+        "token_series_id": 146749
+	},
+    {
+        "id": 268,
+		"rarity": "rare",
+		"cosplay": null,
+        "slug": "nMshJEDW",
+        "token_series_id": 146752
+	},
+    {
+        "id": 269,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "0LTI5D8z",
+        "token_series_id": 146753
+	},
+    {
+        "id": 270,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "hQHiJG5D",
+        "token_series_id": 146755
+	},
+    {
+        "id": 271,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "8GiuF62j",
+        "token_series_id": 146767
+	},
+    {
+        "id": 272,
+		"rarity": "rare",
+		"cosplay": null,
+        "slug": "AYMH7gVz",
+        "token_series_id": 146768
+	},
+    {
+        "id": 273,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "IHbJAlCK",
+        "token_series_id": 146852
+	},
+    {
+        "id": 274,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "BNOPP61f",
+        "token_series_id": 146858
+	},
+    {
+        "id": 275,
+		"rarity": "rare",
+		"cosplay": "Dimaria Yesta",
+        "slug": "ZoUnJbid",
+        "token_series_id": 146866
+	},
+    {
+        "id": 276,
+		"rarity": "legendary",
+		"cosplay": "Ezra Scarlet",
+        "slug": "jbdzRPDN",
+        "token_series_id": 146909
+	},
+    {
+        "id": 277,
+		"rarity": "rare",
+		"cosplay": null,
+        "slug": "QEXkVTw1",
+        "token_series_id": 147719
+	},
+    {
+        "id": 278,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "HjeyfbJA",
+        "token_series_id": 149682
+	},
+    {
+        "id": 279,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "3kzrnujo",
+        "token_series_id": 149685
+	},
+    {
+        "id": 280,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "lw3LDxSP",
+        "token_series_id": 149690
+	},
+    {
+        "id": 281,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "LkdmNtTG",
+        "token_series_id": 149743
+	},
+    {
+        "id": 282,
+		"rarity": "rare",
+		"cosplay": null,
+        "slug": "0iyymKtY",
+        "token_series_id": 149760
+	},
+    {
+        "id": 283,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "iYcTxVat",
+        "token_series_id": 149771
+	},
+    {
+        "id": 284,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "evJRSimH",
+        "token_series_id": 153154
+	},
+    {
+        "id": 285,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "fpSdXAYa",
+        "token_series_id": 0
+	},
+    {
+        "id": 286,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "vEVCRorb",
+        "token_series_id": 0
+	},
+    {
+        "id": 287,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "TT6SaRKg",
+        "token_series_id": 0
+	},
+    {
+        "id": 288,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "WLyw9e3p",
+        "token_series_id": 0
+	},
+    {
+        "id": 289,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "lw20uuN3",
+        "token_series_id": 0
+	},
+    {
+        "id": 290,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "RECylrhh",
+        "token_series_id": 0
+	},
+    {
+        "id": 291,
+		"rarity": "rare",
+		"cosplay": null,
+        "slug": "AMvJmIOy",
+        "token_series_id": 155031
+	},
+    {
+        "id": 292,
+		"rarity": "rare",
+		"cosplay": null,
+        "slug": "p4uSynLo",
+        "token_series_id": 166777
+	},
+    {
+        "id": 293,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "xZLROCAl",
+        "token_series_id": 171750
+	},
+    {
+        "id": 294,
+		"rarity": "rare",
+		"cosplay": "Tsunade",
+        "slug": "qbH8KMOa",
+        "token_series_id": 173889
+	},
+    {
+        "id": 295,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "of3NdwSU",
+        "token_series_id": 173893
+	},
+    {
+        "id": 296,
+		"rarity": "rare",
+		"cosplay": null,
+        "slug": "bNhMV7l6",
+        "token_series_id": 184782
+	},
+    {
+        "id": 297,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "FusikIlP",
+        "token_series_id": 189652
+	},
+    {
+        "id": 298,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "0cAwZTWM",
+        "token_series_id": 200576
+	},
+    {
+        "id": 299,
+		"rarity": "rare",
+		"cosplay": null,
+        "slug": "68QBhN8g",
+        "token_series_id": 201156
+	},
+    {
+        "id": 300,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "dHq7cNQq",
+        "token_series_id": 201186
+	},
+    {
+        "id": 301,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "H7LMDKo1",
+        "token_series_id": 201196
+	},
+    {
+        "id": 302,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "eSbKv13d",
+        "token_series_id": 201201
+	},
+    {
+        "id": 303,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "ZoP8E8G9",
+        "token_series_id": 201207
+	},
+    {
+        "id": 304,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "bwPaKxPa",
+        "token_series_id": 201216
+	},
+    {
+        "id": 305,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "ODXI9QpU",
+        "token_series_id": 201221
+	},
+    {
+        "id": 306,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "nDUIr4hg",
+        "token_series_id": 201225
+	},
+    {
+        "id": 307,
+		"rarity": "rare",
+		"cosplay": null,
+        "slug": "jkawzX6m",
+        "token_series_id": 201239
+	},
+    {
+        "id": 308,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "sZxBp3dJ",
+        "token_series_id": 201242
+	},
+    {
+        "id": 309,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "b9Ug7LV7",
+        "token_series_id": 201249
+	},
+    {
+        "id": 310,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "iUOyXGCt",
+        "token_series_id": 201254
+	},
+    {
+        "id": 311,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "R4Xpt0AE",
+        "token_series_id": 201257
+	},
+    {
+        "id": 312,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "Ctte1YhB",
+        "token_series_id": 201260
+	},
+    {
+        "id": 313,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "cf63tICp",
+        "token_series_id": 201264
+	},
+    {
+        "id": 314,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "FCeDg3dg",
+        "token_series_id": 0
+	},
+    {
+        "id": 315,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "iFEyp2SX",
+        "token_series_id": 0
+	},
+    {
+        "id": 316,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "NAt5nX8n",
+        "token_series_id": 0
+	},
+    {
+        "id": 317,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "mNUmapuS",
+        "token_series_id": 0
+	},
+    {
+        "id": 318,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "zPhyXyeH",
+        "token_series_id": 0
+	},
+    {
+        "id": 319,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "nKinqUPj",
+        "token_series_id": 0
+	},
+    {
+        "id": 320,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "dYjPkB9n",
+        "token_series_id": 209153
+	},
+    {
+        "id": 321,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "r0tqqOdL",
+        "token_series_id": 209163
+	},
+    {
+        "id": 322,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "hQfJxEdu",
+        "token_series_id": 209166
+	},
+    {
+        "id": 323,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "gP6XdCJK",
+        "token_series_id": 209167
+	},
+    {
+        "id": 324,
+		"rarity": "rare",
+		"cosplay": "Kaguya Ōtsutsuki",
+        "slug": "bcXTAcAQ",
+        "token_series_id": 209173
+	},
+    {
+        "id": 325,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "edkJ2Sib",
+        "token_series_id": 209177
+	},
+    {
+        "id": 326,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "wWzSjZcG",
+        "token_series_id": 209184
+	},
+    {
+        "id": 327,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "dMgqSCHz",
+        "token_series_id": 209190
+	},
+    {
+        "id": 328,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "ncaiMD0R",
+        "token_series_id": 209194
+	},
+    {
+        "id": 329,
+		"rarity": "rare",
+		"cosplay": null,
+        "slug": "i33w9NtX",
+        "token_series_id": 209216
+	},
+    {
+        "id": 330,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "R8s9qprP",
+        "token_series_id": 218370
+	},
+    {
+        "id": 331,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "vJzZO2JS",
+        "token_series_id": 218379
+	},
+    {
+        "id": 332,
+		"rarity": "rare",
+		"cosplay": "Tracer",
+        "slug": "VonEVldl",
+        "token_series_id": 218388
+	},
+    {
+        "id": 333,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "hOj6RkO9",
+        "token_series_id": 218399
+	},
+    {
+        "id": 334,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "jQRt4VJO",
+        "token_series_id": 218406
+	},
+    {
+        "id": 335,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "W1R7gZ46",
+        "token_series_id": 218416
+	},
+    {
+        "id": 336,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "yyvokzO7",
+        "token_series_id": 218422
+	},
+    {
+        "id": 337,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "wBUzfgD8",
+        "token_series_id": 218432
+	},
+    {
+        "id": 338,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "qsm212Sj",
+        "token_series_id": 218455
+	},
+    {
+        "id": 339,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "vb1AEYqU",
+        "token_series_id": 218465
+	},
+    {
+        "id": 340,
+		"rarity": "rare",
+		"cosplay": "Psychedelic-chan",
+        "slug": "gwor2EcI",
+        "token_series_id": 218477
+	},
+    {
+        "id": 341,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "rTIgTMXx",
+        "token_series_id": 0
+	},
+    {
+        "id": 342,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "KmGtolX7",
+        "token_series_id": 0
+	},
+    {
+        "id": 343,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "xt7JKmAq",
+        "token_series_id": 0
+	},
+    {
+        "id": 344,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "3SSwOQJI",
+        "token_series_id": 0
+	},
+    {
+        "id": 345,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "8LbSYMbK",
+        "token_series_id": 0
+	},
+    {
+        "id": 346,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "lltoWEol",
+        "token_series_id": 0
+	},
+    {
+        "id": 347,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "QKtfnuCT",
+        "token_series_id": 229094
+	},
+    {
+        "id": 348,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "qTlfX5Ja",
+        "token_series_id": 229096
+	},
+    {
+        "id": 349,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "5gIqlPvR",
+        "token_series_id": 229100
+	},
+    {
+        "id": 350,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "yZ9yrm3a",
+        "token_series_id": 229102
+	},
+    {
+        "id": 351,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "daWiVpZQ",
+        "token_series_id": 229114
+	},
+    {
+        "id": 352,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "hyftJi4S",
+        "token_series_id": 229124
+	},
+    {
+        "id": 353,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "cryM1Rhy",
+        "token_series_id": 229128
+	},
+    {
+        "id": 354,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "uxulf4nI",
+        "token_series_id": 229139
+	},
+    {
+        "id": 355,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "CxtCavWl",
+        "token_series_id": 229143
+	},
+    {
+        "id": 356,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "3d2tSqA2",
+        "token_series_id": 229150
+	},
+    {
+        "id": 357,
+		"rarity": "rare",
+		"cosplay": null,
+        "slug": "FObXciz5",
+        "token_series_id": 229157
+	},
+    {
+        "id": 358,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "hcnrkZNg",
+        "token_series_id": 229165
+	},
+    {
+        "id": 359,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "ppgyY8mX",
+        "token_series_id": 229171
+	},
+    {
+        "id": 360,
+		"rarity": "legendary",
+		"cosplay": "Gundam",
+        "slug": "",
+        "token_series_id": 229471
+	},
+    {
+        "id": 361,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "xvdtJnHR",
+        "token_series_id": 237611
+	},
+    {
+        "id": 362,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "rgzwF8Ev",
+        "token_series_id": 237616
+	},
+    {
+        "id": 363,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "Z9KegehY",
+        "token_series_id": 237619
+	},
+    {
+        "id": 364,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "",
+        "token_series_id": 237628
+	},
+    {
+        "id": 365,
+		"rarity": "rare",
+		"cosplay": "Aquarius",
+        "slug": "RYPAro3r",
+        "token_series_id": 237641
+	},
+    {
+        "id": 366,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "",
+        "token_series_id": 237649
+	},
+    {
+        "id": 367,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "6KpcXdEQ",
+        "token_series_id": 237655
+	},
+    {
+        "id": 368,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "kmRzUt6w",
+        "token_series_id": 237661
+	},
+    {
+        "id": 369,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "xnxFmVQB",
+        "token_series_id": 237664
+	},
+    {
+        "id": 370,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "BDmcgEij",
+        "token_series_id": 0
+	},
+    {
+        "id": 371,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "FP6gWlZG",
+        "token_series_id": 0
+	},
+    {
+        "id": 372,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "C2JLe4VL",
+        "token_series_id": 0
+	},
+    {
+        "id": 373,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "RGJaylh0",
+        "token_series_id": 0
+	},
+    {
+        "id": 374,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "DOOlUNE9",
+        "token_series_id": 0
+	},
+    {
+        "id": 375,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "ryau47tD",
+        "token_series_id": 0
+	},
+    {
+        "id": 376,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "j28s5rX0",
+        "token_series_id": 245321
+	},
+    {
+        "id": 377,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "Zc7zN48J",
+        "token_series_id": 245324
+	},
+    {
+        "id": 378,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "3pT2M4Cv",
+        "token_series_id": 245329
+	},
+    {
+        "id": 379,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "C5hPEnIf",
+        "token_series_id": 246661
+	},
+    {
+        "id": 380,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "KAO7Hnrm",
+        "token_series_id": 254952
+	},
+    {
+        "id": 381,
+		"rarity": "rare",
+		"cosplay": null,
+        "slug": "iNqgTXJX",
+        "token_series_id": 254988
+	},
+    {
+        "id": 382,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "L1wmSIgi",
+        "token_series_id": 254999
+	},
+    {
+        "id": 383,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "kRmUduRB",
+        "token_series_id": 255022
+	},
+    {
+        "id": 384,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "5gU1E5fg",
+        "token_series_id": 255040
+	},
+    {
+        "id": 385,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "UVmqTqRE",
+        "token_series_id": 255068
+	},
+    {
+        "id": 386,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "3s9pQnor",
+        "token_series_id": 255075
+	},
+    {
+        "id": 387,
+		"rarity": "rare",
+		"cosplay": "Darna",
+        "slug": "7TfmQ2mg",
+        "token_series_id": 255093
+	},
+    {
+        "id": 388,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "q3ZYB7jY",
+        "token_series_id": 0
+	},
+    {
+        "id": 389,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "DALe8ASZ",
+        "token_series_id": 0
+	},
+    {
+        "id": 390,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "XIJMG07w",
+        "token_series_id": 255123
+	},
+    {
+        "id": 391,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "3AoHJ88e",
+        "token_series_id": 0
+	},
+    {
+        "id": 392,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "TOeReCsu",
+        "token_series_id": 268383
+	},
+    {
+        "id": 393,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "swcYG0d1",
+        "token_series_id": 0
+	},
+    {
+        "id": 394,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "WR3C83U8",
+        "token_series_id": 268383
+	},
+    {
+        "id": 395,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "lvKtaxmA",
+        "token_series_id": 268398
+	},
+    {
+        "id": 396,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "PXhiKskE",
+        "token_series_id": 270821
+	},
+    {
+        "id": 397,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "Q5VGjX4U",
+        "token_series_id": 273771
+	},
+    {
+        "id": 398,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "NwO3LdQQ",
+        "token_series_id": 273776
+	},
+    {
+        "id": 399,
+		"rarity": "legendary",
+		"cosplay": "Mikasa",
+        "slug": "",
+        "token_series_id": 294830
+	},
+    {
+        "id": 400,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "",
+        "token_series_id": 0
+	},
+    {
+        "id": 401,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "",
+        "token_series_id": 0
+	},
+    {
+        "id": 402,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "",
+        "token_series_id": 0
+	},
+    {
+        "id": 403,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "",
+        "token_series_id": 0
+	},
+    {
+        "id": 404,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "",
+        "token_series_id": 0
+	},
+    {
+        "id": 405,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "",
+        "token_series_id": 0
+	},
+    {
+        "id": 406,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "",
+        "token_series_id": 326900
+	},
+    {
+        "id": 407,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "",
+        "token_series_id": 326901
+	},
+    {
+        "id": 408,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "",
+        "token_series_id": 326903
+	},
+    {
+        "id": 409,
+		"rarity": "rare",
+		"cosplay": null,
+        "slug": "",
+        "token_series_id": 326904
+	},
+    {
+        "id": 410,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "",
+        "token_series_id": 328195
+	},
+    {
+        "id": 411,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "",
+        "token_series_id": 328198
+	},
+    {
+        "id": 412,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "",
+        "token_series_id": 328200
+	},
+    {
+        "id": 413,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "",
+        "token_series_id": 328203
+	},
+    {
+        "id": 414,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "",
+        "token_series_id": 328206
+	},
+    {
+        "id": 415,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "",
+        "token_series_id": 328302
+	},
+    {
+        "id": 416,
+		"rarity": "rare",
+		"cosplay": "Reyna",
+        "slug": "",
+        "token_series_id": 328306
+	},
+    {
+        "id": 417,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "",
+        "token_series_id": 328312
+	},
+    {
+        "id": 418,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "",
+        "token_series_id": 328316
+	},
+    {
+        "id": 419,
+		"rarity": "rare",
+		"cosplay": "Ruined Ms Fortune",
+        "slug": "",
+        "token_series_id": 328319
+	},
+    {
+        "id": 420,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "",
+        "token_series_id": 329520
+	},
+    {
+        "id": 421,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "",
+        "token_series_id": 329525
+	},
+    {
+        "id": 422,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "",
+        "token_series_id": 329529
+	},
+    {
+        "id": 423,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "",
+        "token_series_id": 329539
+	},
+    {
+        "id": 424,
+		"rarity": "rare",
+		"cosplay": null,
+        "slug": "",
+        "token_series_id": 329541
+	},
+    {
+        "id": 425,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "",
+        "token_series_id": 329542
+	},
+    {
+        "id": 426,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "",
+        "token_series_id": 329546
+	},
+    {
+        "id": 427,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "",
+        "token_series_id": 329549
+	},
+    {
+        "id": 428,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "",
+        "token_series_id": 329552
+	},
+    {
+        "id": 429,
+		"rarity": "rare",
+		"cosplay": null,
+        "slug": "",
+        "token_series_id": 329555
+	},
+    {
+        "id": 430,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "",
+        "token_series_id": 0
+	},
+    {
+        "id": 431,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "",
+        "token_series_id": 0
+	},
+    {
+        "id": 432,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "",
+        "token_series_id": 0
+	},
+    {
+        "id": 433,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "",
+        "token_series_id": 0
+	},
+    {
+        "id": 434,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "",
+        "token_series_id": 0
+	},
+    {
+        "id": 435,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "",
+        "token_series_id": 0
+	},
+    {
+        "id": 436,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "",
+        "token_series_id": 330923
+	},
+    {
+        "id": 437,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "",
+        "token_series_id": 330926
+	},
+    {
+        "id": 438,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "",
+        "token_series_id": 330928
+	},
+    {
+        "id": 439,
+		"rarity": "rare",
+		"cosplay": "Esdeath",
+        "slug": "",
+        "token_series_id": 330931
+	},
+    {
+        "id": 440,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "",
+        "token_series_id": 332136
+	},
+    {
+        "id": 441,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "",
+        "token_series_id": 332137
+	},
+    {
+        "id": 442,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "",
+        "token_series_id": 0
+	},
+    {
+        "id": 443,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "",
+        "token_series_id": 0
+	},
+    {
+        "id": 444,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "",
+        "token_series_id": 332141
+	},
+    {
+        "id": 445,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "",
+        "token_series_id": 0
+	},
+    {
+        "id": 446,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "",
+        "token_series_id": 332145
+	},
+    {
+        "id": 447,
+		"rarity": "rare",
+		"cosplay": null,
+        "slug": "",
+        "token_series_id": 332151
+	},
+    {
+        "id": 448,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "",
+        "token_series_id": 332153
+	},
+    {
+        "id": 449,
+		"rarity": "rare",
+		"cosplay": null,
+        "slug": "",
+        "token_series_id": 332156
+	},
+    {
+        "id": 450,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "",
+        "token_series_id": 334912
+	},
+    {
+        "id": 451,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "",
+        "token_series_id": 0
+	},
+    {
+        "id": 452,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "",
+        "token_series_id": 334916
+	},
+    {
+        "id": 453,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "",
+        "token_series_id": 334917
+	},
+    {
+        "id": 454,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "",
+        "token_series_id": 334919
+	},
+    {
+        "id": 455,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "",
+        "token_series_id": 0
+	},
+    {
+        "id": 456,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "",
+        "token_series_id": 0
+	},
+    {
+        "id": 457,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "",
+        "token_series_id": 0
+	},
+    {
+        "id": 458,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "",
+        "token_series_id": 337085
+	},
+    {
+        "id": 459,
+		"rarity": "legendary",
+		"cosplay": null,
+        "slug": "",
+        "token_series_id": 340142
+	},
+    {
+        "id": 460,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "",
+        "token_series_id": 0
+	},
+    {
+        "id": 461,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "",
+        "token_series_id": 0
+	},
+    {
+        "id": 462,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "",
+        "token_series_id": 0
+	},
+    {
+        "id": 463,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "",
+        "token_series_id": 0
+	},
+    {
+        "id": 464,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "",
+        "token_series_id": 0
+	},
+    {
+        "id": 465,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "",
+        "token_series_id": 0
+	},
+    {
+        "id": 466,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "",
+        "token_series_id": 0
+	},
+    {
+        "id": 467,
+		"rarity": null,
+		"cosplay": null,
+        "slug": "",
+        "token_series_id": 0
+	}
+]

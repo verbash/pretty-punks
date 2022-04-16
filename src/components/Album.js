@@ -1,14 +1,10 @@
 import React from "react"
-import AppBar from '@mui/material/AppBar';
 import Button from '@mui/material/Button';
-import CssBaseline from '@mui/material/CssBaseline';
 import Stack from '@mui/material/Stack';
 import Box from '@mui/material/Box';
-import Toolbar from '@mui/material/Toolbar';
 import Typography from '@mui/material/Typography';
 import Container from '@mui/material/Container';
 import Link from '@mui/material/Link';
-import { createTheme, ThemeProvider } from '@mui/material/styles';
 import { documentToReactComponents } from '@contentful/rich-text-react-renderer';
 
 import Links from './Links'
@@ -28,40 +24,6 @@ function Copyright() {
   );
 }
 
-const theme = createTheme({
-    palette: {
-        mode: 'dark',
-        background: {
-          default: "#790e8b"
-        },
-        primary: {
-          main: '#ab47bc',
-        },
-        secondary: {
-          main: '#d82766',
-        },
-        success: {
-          main: '#00e676',
-        },
-      },
-      typography: {
-        fontFamily: 'Roboto',
-        h3: {
-          fontFamily: 'Creepster',
-        },
-      },
-      action: {
-        active: '#ADD8E6',
-        activeOpacity: 1,
-        hover: '#ADD8E6',
-        hoverOpacity: 0.7,
-        focus: '#ADD8E6',
-        focusOpacity: 1,
-        selected: '#ADD8E6',
-        selectedOpacity: 1
-      },
-});
-
 export default function Album(props) {
   console.log('Album page', props.page);
   const [more, setMore] = React.useState(false);
@@ -75,15 +37,8 @@ export default function Album(props) {
   }
 
   return (
-    <ThemeProvider theme={theme}>
-      <CssBaseline />
-      <AppBar position="relative">
-        <Toolbar>
-          <Typography variant="h6" color="inherit" noWrap>
-            <Links />
-          </Typography>
-        </Toolbar>
-      </AppBar>
+    <>
+      <Links />
       <main>
         {/* Hero unit */}
         <Box
@@ -192,6 +147,6 @@ export default function Album(props) {
         <Copyright />
       </Box>
       {/* End footer */}
-    </ThemeProvider>
+    </>
   );
 }

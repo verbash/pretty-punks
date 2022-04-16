@@ -1,9 +1,13 @@
-import React, { useState } from 'react'
+import React, { useState, useEffect } from 'react'
 import CardMedia from '@mui/material/CardMedia';
 import { Blurhash } from "react-blurhash";
 
 export default function CardImg(props) {
     const [isLoaded, setIsLoaded] = useState(false);
+
+    useEffect(() => {
+
+    },[isLoaded])
 
     return (
     <>
