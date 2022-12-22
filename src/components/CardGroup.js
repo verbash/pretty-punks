@@ -23,7 +23,7 @@ export default function CardGroup(props) {
         }
 
         const fetcher = async () => {
-          await fetch(`./paras_api?skip=${counter}`)
+          await fetch(`https://pretty-punks-5000.verbash.workers.dev/?skip=${counter}`)
           // I need to call for these cards a max of 30 at a time
             .then(res => res.json())
             .then(
