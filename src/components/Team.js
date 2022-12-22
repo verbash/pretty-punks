@@ -1,9 +1,8 @@
-import React, { useState } from 'react'
+import React from 'react'
 import CardMedia from '@mui/material/CardMedia';
 import Grid from '@mui/material/Grid';
 import Paper from "@mui/material/Paper";
 import twitter from '../img/Twitter_perspective_matte_s.png'
-import { documentToReactComponents } from '@contentful/rich-text-react-renderer';
 import { Typography } from '@mui/material';
 
 export default function Team(props) {
@@ -19,8 +18,6 @@ export default function Team(props) {
                 p: 3,
                 mt: 5,
             }}
-            // justifyContent='center'
-            // alignItems='center'
         >
             <Grid item sm={3} xs={6}>
                 <Paper elevation={3}  sx={{ p: 2 }}>

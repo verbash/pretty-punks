@@ -1,4 +1,4 @@
-import React, { useState } from 'react'
+import React from 'react'
 import CardMedia from '@mui/material/CardMedia';
 import Grid from '@mui/material/Grid';
 import Paper from "@mui/material/Paper";
@@ -17,14 +17,12 @@ export default function Rarity(props) {
                 p: 3,
                 mt: 5,
             }}
-            // justifyContent='center'
-            // alignItems='center'
         >
             <Grid item sm={3} xs={6}>
                 <Paper elevation={3}  sx={{ p: 2 }}>
                     <CardMedia
                         component="img"
-                        image={'https://cloudflare-ipfs.com/ipfs/bafybeihvmryeijvepj25s5roc6yj7xejlypckjj6esozeizph6a36lvt74'}
+                        image={'https://cloudflare-ipfs.com/ipfs/bafkreiehxts7g376divx2v3iqgcqqplh7uidscsci3pquljze7ambooa4e'}
                         alt="punks 1"
                         // sx={{ p: 2 }}
                     />

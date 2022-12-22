@@ -147,6 +147,24 @@ function App() {
   const [page, setPage] = useState(null);
 
   useEffect(() => {
+    const callBackendAPI = async () => {
+      const response = await fetch('./express_backend');
+      const body = await response.json();
+  
+      if (response.status !== 200) {
+        throw Error(body.message)
+      }
+  
+      return body;
+    }
+
+    callBackendAPI()
+      .then(res => {
+        // this.setState({ data: res.express });
+        console.log('RESPONSE', res);
+      })
+      .catch(err => console.log(err));
+
     window
       .fetch(`https://graphql.contentful.com/content/v1/spaces/${process.env.REACT_APP_CONTENTFUL_SPACE_ID}/`, {
         method: "POST",
@@ -192,6 +210,8 @@ function App() {
     </div>
     
   );
+
+
 }
 
 export default App;

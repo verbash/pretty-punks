@@ -22,12 +22,13 @@ export default function CardGroup(props) {
           return items
         }
 
-        const fetcher = () => {
-          fetch(`https://api-v2-mainnet.paras.id/token-series?collection_id=pretty-punks-by-agatheartsnear&__limit=24&__skip=${counter}`)
+        const fetcher = async () => {
+          await fetch(`./paras_api?skip=${counter}`)
           // I need to call for these cards a max of 30 at a time
             .then(res => res.json())
             .then(
               (result) => {
+                console.log('result', result);
                 setIsLoaded(true);
                 if (counter < 501) {
                   setItems(filterCards(items.concat(result.data.results)));

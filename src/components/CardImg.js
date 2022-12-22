@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react'
 import CardMedia from '@mui/material/CardMedia';
-import { Blurhash } from "react-blurhash";
+// import { Blurhash } from "react-blurhash";
 
 export default function CardImg(props) {
     const [isLoaded, setIsLoaded] = useState(false);
@@ -11,13 +11,13 @@ export default function CardImg(props) {
 
     return (
     <>
-    {isLoaded ? null :
+    {/* {isLoaded ? null :
     <Blurhash
         hash={props.item.metadata.blurhash}
         width={408}
         height={408}
       />
-    }
+    } */}
       <CardMedia
         component="img"
         image={`https://cloudflare-ipfs.com/ipfs/${props.item.metadata.media}`}
