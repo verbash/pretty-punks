@@ -22,7 +22,7 @@ export default function Rarity(props) {
                 <Paper elevation={3}  sx={{ p: 2 }}>
                     <CardMedia
                         component="img"
-                        image={'https://cloudflare-ipfs.com/ipfs/bafkreiehxts7g376divx2v3iqgcqqplh7uidscsci3pquljze7ambooa4e'}
+                        image={'https://paras-ipfs.paras.id/bafkreiehxts7g376divx2v3iqgcqqplh7uidscsci3pquljze7ambooa4e'}
                         alt="punks 1"
                         // sx={{ p: 2 }}
                     />
@@ -45,7 +45,7 @@ export default function Rarity(props) {
                 <Paper elevation={3}  sx={{ p: 2 }}>
                     <CardMedia
                         component="img"
-                        image={'https://cloudflare-ipfs.com/ipfs/bafybeihd76uyeylsvmqsorhhytfbxuqz2fhoq6wxjjmu36nicop7t4l5su'}
+                        image={'https://paras-ipfs.paras.id/bafybeihd76uyeylsvmqsorhhytfbxuqz2fhoq6wxjjmu36nicop7t4l5su'}
                         alt="punks 1"
                         // sx={{ p: 2 }}
                     />
@@ -68,7 +68,7 @@ export default function Rarity(props) {
                 <Paper elevation={3}  sx={{ p: 2 }}>
                     <CardMedia
                         component="img"
-                        image={'https://cloudflare-ipfs.com/ipfs/bafkreifim7qh33527irdmpp3wg5v43oix373kwnnbykkutw6xdwn2tcn6u'}
+                        image={'https://paras-ipfs.paras.id/bafkreifim7qh33527irdmpp3wg5v43oix373kwnnbykkutw6xdwn2tcn6u'}
                         alt="punks 1"
                         // sx={{ p: 2 }}
                     />
@@ -91,7 +91,7 @@ export default function Rarity(props) {
                 <Paper elevation={3}  sx={{ p: 2 }}>
                     <CardMedia
                         component="img"
-                        image={'https://cloudflare-ipfs.com/ipfs/bafybeiboosikrqpeivf3zppmoxxm2sahg6wrpwx7ncz4wc5llrrfn3miui'}
+                        image={'https://paras-ipfs.paras.id/bafybeiboosikrqpeivf3zppmoxxm2sahg6wrpwx7ncz4wc5llrrfn3miui'}
                         alt="punks 1"
                         // sx={{ p: 2 }}
                     />

@@ -20,7 +20,7 @@ export default function CardImg(props) {
     } */}
       <CardMedia
         component="img"
-        image={`https://cloudflare-ipfs.com/ipfs/${props.item.metadata.media}`}
+        image={`https://paras-ipfs.paras.id/${props.item.metadata.media}`}
         onLoad={() => setIsLoaded(true)}
         style={isLoaded ? {} : {display: 'none'}}
         alt={props.item.metadata.title}

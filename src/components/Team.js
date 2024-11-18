@@ -23,7 +23,7 @@ export default function Team(props) {
                 <Paper elevation={3}  sx={{ p: 2 }}>
                     <CardMedia
                         component="img"
-                        image={'https://cloudflare-ipfs.com/ipfs/bafybeicrjen3pv4knvzrko57zc66hzn7ylkrcgvhhnwzu4ivzkbhpis454'}
+                        image={'https://paras-ipfs.paras.id/bafybeicrjen3pv4knvzrko57zc66hzn7ylkrcgvhhnwzu4ivzkbhpis454'}
                         alt="punks 1"
                         // sx={{ p: 2 }}
                     />
@@ -56,7 +56,7 @@ export default function Team(props) {
                 <Paper elevation={3}  sx={{ p: 2 }}>
                     <CardMedia
                         component="img"
-                        image={'https://cloudflare-ipfs.com/ipfs/bafkreidifz5e3ktw4nrwoccpfn6wsnslplhkebcufxxdr2ycbs7ju32uku'}
+                        image={'https://paras-ipfs.paras.id/bafkreidifz5e3ktw4nrwoccpfn6wsnslplhkebcufxxdr2ycbs7ju32uku'}
                         alt="punks 1"
                         // sx={{ p: 2 }}
                     />
@@ -89,7 +89,7 @@ export default function Team(props) {
                 <Paper elevation={3}  sx={{ p: 2 }}>
                     <CardMedia
                         component="img"
-                        image={'https://cloudflare-ipfs.com/ipfs/bafkreicn5tvoq6r3djriyysj5wskijnui7wrbail6ef5qclvmcrqqpndsy'}
+                        image={'https://paras-ipfs.paras.id/bafkreicn5tvoq6r3djriyysj5wskijnui7wrbail6ef5qclvmcrqqpndsy'}
                         alt="punks 1"
                         // sx={{ p: 2 }}
                     />
@@ -122,7 +122,7 @@ export default function Team(props) {
                 <Paper elevation={3}  sx={{ p: 2 }}>
                     <CardMedia
                         component="img"
-                        image={'https://cloudflare-ipfs.com/ipfs/bafkreicp335kxs75wmddgwjqbsjkheumgrjovycr53i2gfbd2dm2k3ll5y'}
+                        image={'https://paras-ipfs.paras.id/bafkreicp335kxs75wmddgwjqbsjkheumgrjovycr53i2gfbd2dm2k3ll5y'}
                         alt="punks 1"
                         // sx={{ p: 2 }}
                     />
